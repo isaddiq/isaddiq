@@ -109,22 +109,18 @@ I'm a **PhD candidate** specializing in **immersive technologies** and **data-dr
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaddiq&show_icons=true&theme=tokyonight&count_private=true&hide_title=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaddiq&show_icons=true&theme=tokyonight&count_private=true)
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaddiq&layout=compact&theme=tokyonight&langs_count=8&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaddiq&layout=compact&theme=tokyonight&langs_count=6)
 
 </td>
 </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=isaddiq&theme=tokyonight&fire=667eea&ring=764ba2&currStreakLabel=667eea)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isaddiq&bg_color=1a1b27&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=isaddiq&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=8&no-bg=false&no-frame=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=isaddiq&theme=tokyonight)
 
 </div>
 
