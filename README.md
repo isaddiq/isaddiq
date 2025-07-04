@@ -75,8 +75,8 @@ A Mixed Reality assistant that allows users to interact with BIM components usin
 
 ## 📌 GitHub Stats
 
-![Saddiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saddiq-ur&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saddiq-ur&layout=compact)
+![Saddiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaddiq&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaddiq&layout=compact)
 
 ---
 
