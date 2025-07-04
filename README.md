@@ -81,8 +81,6 @@ A Mixed Reality assistant that allows users to interact with BIM components usin
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=isaddiq&theme=default)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=isaddiq&theme=flat&column=7&no-frame=true)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=isaddiq&color=blueviolet)
 
 ---
