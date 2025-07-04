@@ -73,10 +73,37 @@ A Mixed Reality assistant that allows users to interact with BIM components usin
 
 ---
 
-## 📌 GitHub Stats
+## 📈 GitHub Activity Stats
 
-![Saddiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaddiq&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaddiq&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaddiq&show_icons=true&theme=default&count_private=true&hide_title=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaddiq&layout=compact&theme=default&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=isaddiq&theme=default)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=isaddiq&theme=flat&column=7&no-frame=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=isaddiq&color=blueviolet)
+
+---
+
+## 🔖 GitHub Badges
+
+![Followers](https://img.shields.io/github/followers/isaddiq?label=Follow&style=social)  
+![Stars](https://img.shields.io/github/stars/isaddiq?style=social)  
+![Forks](https://img.shields.io/github/forks/isaddiq?style=social)  
+![Commits This Year](https://img.shields.io/github/commit-activity/y/isaddiq/isaddiq)  
+![Last Commit](https://img.shields.io/github/last-commit/isaddiq/isaddiq)  
+![Repos](https://img.shields.io/badge/Public%20Repos-🌐%20Check%20Profile-informational)
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/saddiq-ur-rehman)  
+- 🐦 [Twitter/X](https://twitter.com/saddiq_ur)  
+- 📧 saddiq.research@gmail.com  
+- 💬 Open to research collaboration, postdoc positions, and plugin development
 
 ---
 
