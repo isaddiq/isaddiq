@@ -87,12 +87,12 @@ A Mixed Reality assistant that allows users to interact with BIM components usin
 
 ## 🔖 GitHub Badges
 
-![Followers](https://img.shields.io/github/followers/isaddiq?label=Follow&style=social)  
-![Stars](https://img.shields.io/github/stars/isaddiq?style=social)  
-![Forks](https://img.shields.io/github/forks/isaddiq?style=social)  
-![Commits This Year](https://img.shields.io/github/commit-activity/y/isaddiq/isaddiq)  
-![Last Commit](https://img.shields.io/github/last-commit/isaddiq/isaddiq)  
-![Repos](https://img.shields.io/badge/Public%20Repos-🌐%20Check%20Profile-informational)
+![GitHub followers](https://img.shields.io/github/followers/isaddiq?label=Follow&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/isaddiq?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/isaddiq/isaddiq?style=social)  
+![Commit activity](https://img.shields.io/github/commit-activity/y/isaddiq/isaddiq)  
+![Last commit](https://img.shields.io/github/last-commit/isaddiq/isaddiq?color=brightgreen)  
+![Public Repos](https://img.shields.io/badge/Public%20Repos-%F0%9F%8C%90%20Check%20Profile-informational)
 
 ---
 
