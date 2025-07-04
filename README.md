@@ -95,14 +95,3 @@ A Mixed Reality assistant that allows users to interact with BIM components usin
 ![Public Repos](https://img.shields.io/badge/Public%20Repos-%F0%9F%8C%90%20Check%20Profile-informational)
 
 ---
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/saddiq-ur-rehman)  
-- 🐦 [Twitter/X](https://twitter.com/saddiq_ur)  
-- 📧 saddiq.research@gmail.com  
-- 💬 Open to research collaboration, postdoc positions, and plugin development
-
----
-
-> “My mission is to empower AEC professionals with intuitive, immersive, and intelligent tools for better buildings and faster workflows.”
