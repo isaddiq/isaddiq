@@ -126,26 +126,6 @@ I'm a **PhD candidate** specializing in **immersive technologies** and **data-dr
 
 ---
 
-## 🎯 PhD Journey
-
-<div align="center">
-
-```mermaid
-timeline
-    title Research Timeline
-    2023 : Research Proposal
-         : Literature Review
-         : Methodology Development
-    2024 : Data Collection
-         : Prototype Development
-         : Algorithm Testing
-    2025 : Dissertation Writing
-         : Defense Preparation
-         : Graduation
-```
-
-</div>
-
 ### 🎓 Academic Milestones
 - ✅ **Comprehensive Exam** - BIM & XR Integration
 - 🔬 **Research Proposal** - AI-Enhanced Construction Workflows
