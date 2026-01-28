@@ -169,10 +169,4 @@ I'm a **PhD candidate** specializing in **immersive technologies** and **data-dr
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn)
 
-**"Exploring the intersection of BIM, XR, and AI for next-generation construction workflows"**
-
-*⭐ Star repositories that interest you!*
-
-![Last Updated](https://img.shields.io/badge/Last%20Updated-July%202025-brightgreen?style=for-the-badge&logo=github&logoColor=white)
-
 </div>
