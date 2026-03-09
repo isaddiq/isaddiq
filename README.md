@@ -152,52 +152,28 @@ My work focuses on creating **interoperable digital workflows** that bridge the 
 
 ---
 
-## 📊 GitHub Analytics
-
+📊 GitHub Analytics
 <div align="center">
-
+<!-- Profile Summary Cards — more reliable than github-readme-stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaddiq&theme=tokyonight" width="100%" alt="Profile Summary"/>
 <table>
 <tr>
 <td>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaddiq&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=false)](https://github.com/isaddiq)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaddiq&theme=tokyonight" alt="GitHub Stats"/>
 </td>
 <td>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaddiq&layout=compact&theme=tokyonight&langs_count=6&border_radius=12)](https://github.com/isaddiq)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaddiq&theme=tokyonight" alt="Top Languages by Commits"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaddiq&theme=tokyonight" alt="Top Languages by Repos"/>
 </td>
 </tr>
 </table>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=isaddiq&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+Show Image
 </div>
 
 ---
 
-## 🗺️ Research Roadmap
-
-```
-2023 ──────────────────────────────────────────────────────────── 2025+
-  │                                                                  │
-  ├─ ✅ Comprehensive Exam (BIM & XR Integration)                   │
-  │                                                                  │
-  ├─ ✅ Research Proposal (AI-Enhanced Construction Workflows)       │
-  │                                                                  │
-  ├─ ✅ BIMUniXchange Framework Development                          │
-  │                                                                  │
-  ├─ 🔬 Journal Publication (AUTCON — Under Review)                 │
-  │                                                                  │
-  ├─ 📊 Industry Case Studies & Data Collection ◄── (Now)           │
-  │                                                                  │
-  ├─ 📦 Open-Source BIM-XR Toolkit Release                          │
-  │                                                                  │
-  └─ 🎓 PhD Dissertation Defense (Expected Q3 2025) ───────────────►
-```
-
----
 
 ## 🌟 Let's Collaborate
 
