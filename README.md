@@ -1,41 +1,73 @@
-# 👋 Hi, I'm Saddiq Ur Rehman
-
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=AEC%20Innovation%20Hub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32)
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=220&section=header&text=Saddiq%20Ur%20Rehman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PhD%20Candidate%20%7C%20BIM%20%26%20XR%20Researcher%20%7C%20AEC%20Innovator&descSize=18&descAlignY=58&descColor=ccccff" width="100%" />
 
-**🎓 PhD Candidate | 🏗️ BIM & XR Researcher | 🧠 AI + AEC Innovator**  
-**📍 Dept. of Architecture, Kyung Hee University, South Korea**  
-**🌐 Passionate about Modular Construction, 4D BIM, Mixed Reality, and Intelligent Design Automation**
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=9B72CF&center=true&vCenter=true&multiline=false&width=700&lines=Building+the+Future+of+Construction+with+BIM+%2B+XR;Bridging+Digital+Twins+%26+Immersive+Technologies;AI-Enhanced+AEC+Workflows+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://isaddiq.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saddiqurrehman@khu.ac.kr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddiq-ur-rehman-b79212138/)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=isaddiq&color=667eea&style=for-the-badge)
+<!-- Social Badges -->
+[![Website](https://img.shields.io/badge/Portfolio-isaddiq.github.io-9B72CF?style=for-the-badge&logo=github-pages&logoColor=white)](https://isaddiq.github.io/)
+[![Email](https://img.shields.io/badge/Email-saddiqurrehman@khu.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saddiqurrehman@khu.ac.kr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddiq-ur-rehman-b79212138/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=isaddiq&color=9B72CF&style=for-the-badge&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/isaddiq?label=Followers&style=for-the-badge&color=764ba2)
 
 </div>
 
 ---
 
-## 🔍 About Me
+## 🧑‍🔬 About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
-I'm a **PhD candidate** specializing in **immersive technologies** and **data-driven design** for the AEC industry. My research integrates **Building Information Modeling (BIM)** with **XR platforms**, **AI-driven tools**, and **real-time simulations** for **modular construction workflows**.
+I'm a **PhD candidate** at the **Department of Architecture, Kyung Hee University, South Korea**, specializing in the intersection of **Building Information Modeling (BIM)**, **Extended Reality (XR)**, and **AI-driven design automation** for the AEC industry.
 
-### 🎯 Research Focus:
-- **4D BIM Simulation** & **Construction Scheduling**
-- **Digital Twin Integration** for **DfMA** workflows  
-- **Mixed Reality** in **construction inspection**
-- **AI-Enhanced** design automation
-- **BIM-Game Engine** interoperability
+My work focuses on creating **interoperable digital workflows** that bridge the gap between BIM authoring platforms and immersive real-time environments — enabling smarter, more connected construction processes.
 
-### 🏆 Current Projects:
-- 🔧 **ReUniXchange** - Bidirectional BIM-Unity integration
-- 🏭 **Modular Factory VR** - 4D construction simulation
-- 🗣️ **Voice-Activated MR** - AI assistant for BIM inspection
+<br/>
+
+**📍 Location:** Seoul, South Korea  
+**🎓 Degree:** PhD in Architecture (Expected Q3 2025)  
+**🔬 Lab:** Immersive Construction Informatics
+
+<br clear="right"/>
+
+---
+
+## 🎯 Research Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Core Research Areas
+- **BIM–XR Integration** & Cross-Platform Data Exchange
+- **4D BIM Simulation** & Construction Scheduling
+- **Digital Twin** Frameworks for **DfMA** Workflows
+- **Mixed Reality** in Construction Inspection
+- **AI-Enhanced** Design Automation
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Current Projects
+| Project | Description |
+|---|---|
+| 🔧 **BIMUniXchange** | Cross-platform BIM↔XR semantic data exchange |
+| 🏭 **Modular Factory VR** | 4D construction simulation in VR |
+| 🗣️ **Voice MR Assistant** | AI-powered BIM inspection in HoloLens |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -43,59 +75,79 @@ I'm a **PhD candidate** specializing in **immersive technologies** and **data-dr
 
 <div align="center">
 
-### **AEC & BIM Tools**
-![Revit](https://img.shields.io/badge/Revit-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![ArchiCAD](https://img.shields.io/badge/ArchiCAD-1B365D?style=for-the-badge&logo=graphisoft&logoColor=white)
-![Navisworks](https://img.shields.io/badge/Navisworks-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![Dynamo](https://img.shields.io/badge/Dynamo-FFD23F?style=for-the-badge&logo=autodesk&logoColor=black)
+### 🏛️ AEC & BIM Platforms
 
-### **XR & Development**
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white)
-![HoloLens](https://img.shields.io/badge/HoloLens-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![OpenXR](https://img.shields.io/badge/OpenXR-FF6B35?style=for-the-badge&logo=khronos&logoColor=white)
+![Revit](https://img.shields.io/badge/Autodesk%20Revit-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![ArchiCAD](https://img.shields.io/badge/ArchiCAD-1B365D?style=flat-square&logo=graphisoft&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
+![Navisworks](https://img.shields.io/badge/Navisworks-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![Dynamo](https://img.shields.io/badge/Dynamo-FFD23F?style=flat-square&logo=autodesk&logoColor=black)
 
-### **Programming & AI**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### 🥽 XR & Game Engines
 
-### **Data & Interoperability**
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![IFC](https://img.shields.io/badge/IFC-FF6B35?style=for-the-badge&logo=buildingSMART&logoColor=white)
-![FBX](https://img.shields.io/badge/FBX-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![HoloLens](https://img.shields.io/badge/HoloLens%202-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Meta Quest](https://img.shields.io/badge/Meta%20Quest-1C1E20?style=flat-square&logo=meta&logoColor=white)
+![OpenXR](https://img.shields.io/badge/OpenXR-FF6B35?style=flat-square&logo=khronos&logoColor=white)
+![MRTK](https://img.shields.io/badge/MRTK-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+### 💻 Programming & AI
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+### 🔄 Data & Interoperability
+
+![IFC](https://img.shields.io/badge/IFC%20%2F%20OpenBIM-FF6B35?style=flat-square&logoColor=white)
+![FBX](https://img.shields.io/badge/FBX-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![OBJ](https://img.shields.io/badge/OBJ%20%2F%20glTF-00D084?style=flat-square&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV%20%2F%20JSON-000000?style=flat-square&logo=json&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </div>
 
 ---
 
-## 🧩 Research Projects
+## 🧩 Featured Projects
 
 <div align="center">
 
-### 🔧 ReUniXchange – BIM ↔ Unity Integration
-*Bidirectional data exchange between Revit and Unity for immersive visualization*
+---
 
-**Key Features:** Semantic BIM export • Real-time synchronization • Metadata preservation • XR-ready optimization
+### 🔧 BIMUniXchange — Cross-Platform BIM↔XR Framework
+
+> *A semantic data exchange framework enabling interoperable BIM-to-XR pipelines across Revit, ArchiCAD, and Unity/Unreal*
+
+**Pipeline:** Revit / ArchiCAD → Semantic CSV + OBJ/FBX → Unity / Unreal Engine
+
+| Feature | Detail |
+|---|---|
+| 📦 Semantic Export | Preserves IFC metadata, materials, and element hierarchy |
+| 🔗 Multi-Platform | Supports Revit (OBJ) and ArchiCAD (FBX) geometry pipelines |
+| 🔁 Bidirectional | Designed for round-trip data integrity |
+| 🥽 XR-Ready | Optimized for real-time rendering in VR/AR/MR |
 
 ---
 
 ### 🏭 Modular Factory 4D BIM Simulation
-*VR environment for construction process visualization and planning*
 
-**Phases:** Framing → MEP → Enclosure → Finishes → QC → Delivery  
-**Features:** First-person navigation • Timeline control • Interactive components
+> *Immersive VR environment for visualizing and planning modular construction workflows*
+
+**Phases:** `Framing` → `MEP Rough-In` → `Enclosure` → `Finishes` → `QC` → `Delivery`
+
+✅ First-person navigation  ✅ Timeline scrubbing  ✅ Interactive BIM components  ✅ Real-time progress tracking
 
 ---
 
-### 🗣️ Voice-Activated MR Assistant
-*AI-powered natural language interaction with BIM components*
+### 🗣️ Voice-Activated MR Inspection Assistant
 
-**Capabilities:** Component inspection • Material queries • Quality assessment • Voice commands
+> *AI-powered natural language interface overlaid on BIM components via HoloLens 2*
+
+🎙️ Voice Commands  |  🔍 Component Inspection  |  🏷️ Material Queries  |  📋 Quality Assessment
 
 </div>
 
@@ -107,59 +159,67 @@ I'm a **PhD candidate** specializing in **immersive technologies** and **data-dr
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaddiq&show_icons=true&theme=tokyonight&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaddiq&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=false)](https://github.com/isaddiq)
 
 </td>
-<td width="50%">
+<td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaddiq&layout=compact&theme=tokyonight&langs_count=6)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaddiq&layout=compact&theme=tokyonight&langs_count=6&border_radius=12)](https://github.com/isaddiq)
 
 </td>
 </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=isaddiq&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=isaddiq&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 🎓 Academic Milestones
-- ✅ **Comprehensive Exam** - BIM & XR Integration
-- 🔬 **Research Proposal** - AI-Enhanced Construction Workflows
-- 📊 **Data Collection** - Industry Case Studies
-- 📝 **Dissertation** - Expected Q3 2025
+## 🗺️ Research Roadmap
 
-### 🚀 Research Goals
-- 📦 **Open-Source Framework** - BIM-XR integration toolkit
-- 🏗️ **Industry Application** - Modular construction optimization
-- 🎓 **Knowledge Transfer** - Training and documentation
-- 🌍 **Global Impact** - International AEC standards
+```
+2023 ──────────────────────────────────────────────────────────── 2025+
+  │                                                                  │
+  ├─ ✅ Comprehensive Exam (BIM & XR Integration)                   │
+  │                                                                  │
+  ├─ ✅ Research Proposal (AI-Enhanced Construction Workflows)       │
+  │                                                                  │
+  ├─ ✅ BIMUniXchange Framework Development                          │
+  │                                                                  │
+  ├─ 🔬 Journal Publication (AUTCON — Under Review)                 │
+  │                                                                  │
+  ├─ 📊 Industry Case Studies & Data Collection ◄── (Now)           │
+  │                                                                  │
+  ├─ 📦 Open-Source BIM-XR Toolkit Release                          │
+  │                                                                  │
+  └─ 🎓 PhD Dissertation Defense (Expected Q3 2025) ───────────────►
+```
 
 ---
 
-## 🌟 Connect & Collaborate
+## 🌟 Let's Collaborate
 
 <div align="center">
 
-### 🤝 Open to Collaboration
-- **🏗️ BIM-XR Integration** research projects
-- **🤖 AI in Construction** applications
-- **📦 Modular Construction** workflows
-- **🎓 Academic partnerships** and joint research
+I'm always open to connecting with researchers, developers, and industry professionals working in:
 
-### 📧 Contact
-[![Email](https://img.shields.io/badge/Academic-saddiqurrehman@khu.ac.kr-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saddiqurrehman@khu.ac.kr)
-[![Website](https://img.shields.io/badge/Portfolio-isaddiq.github.io-blue?style=for-the-badge&logo=github-pages&logoColor=white)](https://isaddiq.github.io/)
-[![LinkedIn](https://img.shields.io/badge/Professional-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddiq-ur-rehman-b79212138/)
+**🏗️ BIM–XR Integration** · **🤖 AI in Construction** · **📦 Modular / DfMA** · **🎓 Academic Research**
 
-### 🏆 Academic Status
-![PhD Candidate](https://img.shields.io/badge/PhD-Candidate-gold?style=for-the-badge&logo=academia&logoColor=white)
-![BIM Researcher](https://img.shields.io/badge/BIM-Researcher-green?style=for-the-badge&logo=autodesk&logoColor=white)
-![XR Developer](https://img.shields.io/badge/XR-Developer-purple?style=for-the-badge&logo=unity&logoColor=white)
-![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-orange?style=for-the-badge&logo=openai&logoColor=white)
+<br/>
+
+[![Email](https://img.shields.io/badge/Send%20Email-saddiqurrehman@khu.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saddiqurrehman@khu.ac.kr)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-isaddiq.github.io-9B72CF?style=for-the-badge&logo=github-pages&logoColor=white)](https://isaddiq.github.io/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddiq-ur-rehman-b79212138/)
+
+<br/>
+
+![PhD Candidate](https://img.shields.io/badge/PhD-Candidate-FFD700?style=flat-square)
+![BIM Researcher](https://img.shields.io/badge/BIM-Researcher-00C853?style=flat-square)
+![XR Developer](https://img.shields.io/badge/XR-Developer-9B72CF?style=flat-square)
+![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-FF6B35?style=flat-square)
 
 </div>
 
@@ -167,6 +227,8 @@ I'm a **PhD candidate** specializing in **immersive technologies** and **data-dr
 
 <div align="center">
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn)
+*"The future of construction lies at the intersection of physical precision and digital intelligence."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
