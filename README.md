@@ -34,8 +34,8 @@ My work focuses on creating **interoperable digital workflows** that bridge the 
 <br/>
 
 **📍 Location:** Seoul, South Korea  
-**🎓 Degree:** PhD in Architecture (Expected Q3 2025)  
-**🔬 Lab:** Immersive Construction Informatics
+**🎓 Degree:** PhD in Architecture (Expected Q3 2026)  
+**🔬 Lab:** [Italab](http://italab.khu.ac.kr/)
 
 <br clear="right"/>
 
