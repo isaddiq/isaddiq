@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=220&section=header&text=Saddiq%20Ur%20Rehman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PhD%20Candidate%20%7C%20BIM%20%26%20XR%20Researcher%20%7C%20AEC%20Innovator&descSize=18&descAlignY=58&descColor=ccccff" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
