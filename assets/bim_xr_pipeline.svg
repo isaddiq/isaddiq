@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&amp;family=Fira+Code:wght@400;500&amp;display=swap');
+      
+      .box-label {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 700;
+        font-size: 11px;
+        fill: #9B72CF;
+        letter-spacing: 1.5px;
+      }
+      .node-text {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 600;
+        font-size: 13px;
+        fill: #ffffff;
+      }
+      .subtext {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 300;
+        font-size: 10px;
+        fill: #a0aec0;
+      }
+      .fira-text {
+        font-family: 'Fira Code', monospace;
+        font-size: 10px;
+        fill: #00D084;
+      }
+      .flow-line {
+        fill: none;
+        stroke-width: 2;
+        stroke-linecap: round;
+        stroke-dasharray: 6 12;
+        animation: pipelineFlow 5s linear infinite;
+      }
+      .bg-rect {
+        fill: #0c0a21;
+        stroke: #252147;
+        stroke-width: 1.5;
+        rx: 8px;
+      }
+      .engine-rect {
+        fill: #14112e;
+        stroke: #9B72CF;
+        stroke-width: 2;
+        rx: 10px;
+        filter: drop-shadow(0 0 8px rgba(155, 114, 207, 0.3));
+      }
+      
+      @keyframes pipelineFlow {
+        from { stroke-dashoffset: 54; }
+        to { stroke-dashoffset: 0; }
+      }
+      @keyframes parsePulse {
+        0%, 100% { transform: scale(1); filter: drop-shadow(0 0 4px #9B72CF); }
+        50% { transform: scale(1.05); filter: drop-shadow(0 0 12px #9B72CF); }
+      }
+      .animated-engine {
+        transform-origin: 400px 120px;
+        animation: parsePulse 4s ease-in-out infinite;
+      }
+      .cog-rotate {
+        transform-origin: 400px 105px;
+        animation: cogTurn 15s linear infinite;
+      }
+      @keyframes cogTurn {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+    </style>
+    
+    <radialGradient id="bg-grad" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#0f0c24" />
+      <stop offset="60%" stop-color="#070612" />
+      <stop offset="100%" stop-color="#030308" />
+    </radialGradient>
+
+    <linearGradient id="flow-left-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0078D4" />
+      <stop offset="100%" stop-color="#9B72CF" />
+    </linearGradient>
+
+    <linearGradient id="flow-right-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9B72CF" />
+      <stop offset="100%" stop-color="#00D084" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg-grad)" rx="10"/>
+
+  <!-- Pipeline Flow Lines -->
+  <!-- Upper Left to Center -->
+  <path d="M 210 80 C 280 80, 300 120, 330 120" class="flow-line" stroke="url(#flow-left-grad)" />
+  <!-- Lower Left to Center -->
+  <path d="M 210 160 C 280 160, 300 120, 330 120" class="flow-line" stroke="url(#flow-left-grad)" style="animation-delay: 2.5s;" />
+
+  <!-- Center to Upper Right -->
+  <path d="M 470 120 C 500 120, 520 80, 590 80" class="flow-line" stroke="url(#flow-right-grad)" />
+  <!-- Center to Lower Right -->
+  <path d="M 470 120 C 500 120, 520 160, 590 160" class="flow-line" stroke="url(#flow-right-grad)" style="animation-delay: 2.5s;" />
+
+  <!-- ================= LEFT: BIM PLATFORMS ================= -->
+  <!-- Block Border -->
+  <rect x="25" y="30" width="185" height="180" fill="none" stroke="#252147" stroke-width="1" stroke-dasharray="3 3" rx="8"/>
+  <text x="35" y="47" class="box-label">BIM DATA SOURCES</text>
+
+  <!-- Revit Source -->
+  <g transform="translate(35, 60)">
+    <rect width="165" height="42" class="bg-rect"/>
+    <!-- Autodesk Revit Tag -->
+    <rect x="8" y="9" width="24" height="24" rx="4" fill="#0696D7"/>
+    <text x="14" y="26" font-family="'Outfit', sans-serif" font-weight="800" font-size="16" fill="#ffffff">R</text>
+    <text x="40" y="21" class="node-text">Autodesk Revit</text>
+    <text x="40" y="33" class="subtext">OBJ/IFC Geometry &amp; Metadata</text>
+  </g>
+
+  <!-- ArchiCAD Source -->
+  <g transform="translate(35, 140)">
+    <rect width="165" height="42" class="bg-rect"/>
+    <!-- ArchiCAD Tag -->
+    <rect x="8" y="9" width="24" height="24" rx="4" fill="#1B365D"/>
+    <text x="13" y="26" font-family="'Outfit', sans-serif" font-weight="800" font-size="14" fill="#ffffff">AC</text>
+    <text x="40" y="21" class="node-text">ArchiCAD</text>
+    <text x="40" y="33" class="subtext">FBX/IFC Layouts &amp; Attributes</text>
+  </g>
+
+
+  <!-- ================= CENTER: BIMUniXchange ================= -->
+  <g class="animated-engine">
+    <rect x="330" y="55" width="140" height="130" class="engine-rect"/>
+    
+    <!-- Rotating Gear Icon -->
+    <g class="cog-rotate">
+      <path d="M394,105 L396,101 L400,101 L402,105 L406,105 L408,101 L412,101 L411,106 M406,105 C406,108.3 403.3,111 400,111 C396.7,111 394,108.3 394,105 Z" fill="none" stroke="#9B72CF" stroke-width="1.5"/>
+      <circle cx="400" cy="105" r="3" fill="#00D084"/>
+    </g>
+    
+    <text x="400" y="132" class="node-text" text-anchor="middle" font-size="12">BIMUniXchange</text>
+    <text x="400" y="148" class="fira-text" text-anchor="middle">Semantic Parser</text>
+    <text x="400" y="162" class="subtext" text-anchor="middle">Metadata Extractor</text>
+    <text x="400" y="172" class="subtext" text-anchor="middle">&amp; Relational SQL Mapper</text>
+  </g>
+
+
+  <!-- ================= RIGHT: XR PLATFORMS ================= -->
+  <!-- Block Border -->
+  <rect x="590" y="30" width="185" height="180" fill="none" stroke="#252147" stroke-width="1" stroke-dasharray="3 3" rx="8"/>
+  <text x="600" y="47" class="box-label">REAL-TIME XR TARGETS</text>
+
+  <!-- Engines Source -->
+  <g transform="translate(600, 60)">
+    <rect width="165" height="42" class="bg-rect"/>
+    <rect x="8" y="9" width="24" height="24" rx="4" fill="#000000" stroke="#a0aec0" stroke-width="0.5"/>
+    <!-- Unity symbol representation -->
+    <polygon points="20,13 13,17 13,25 20,29 27,25 27,17" fill="none" stroke="#ffffff" stroke-width="1"/>
+    <text x="40" y="21" class="node-text">Unity / Unreal</text>
+    <text x="40" y="33" class="subtext">Dynamic Material &amp; Hierarchy</text>
+  </g>
+
+  <!-- Devices Source -->
+  <g transform="translate(600, 140)">
+    <rect width="165" height="42" class="bg-rect"/>
+    <rect x="8" y="9" width="24" height="24" rx="4" fill="#0078D4"/>
+    <!-- HoloLens symbol -->
+    <path d="M12,18 L28,18 L28,24 L12,24 Z" fill="none" stroke="#ffffff" stroke-width="1"/>
+    <line x1="16" y1="21" x2="24" y2="21" stroke="#ffffff" stroke-width="1"/>
+    <text x="40" y="21" class="node-text">XR Devices</text>
+    <text x="40" y="33" class="subtext">HoloLens 2 / Quest / MR UI</text>
+  </g>
+</svg>

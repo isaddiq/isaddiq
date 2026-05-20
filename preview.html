@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Saddiq Ur Rehman | GitHub Profile README Previewer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    :root {
+      --bg-dark: #0A0915;
+      --panel-dark: #121026;
+      --border-color: #252147;
+      --text-main: #f0f6fc;
+      --text-muted: #8b949e;
+      --accent-purple: #9B72CF;
+      --accent-blue: #0078D4;
+      --accent-green: #00D084;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-dark);
+      color: var(--text-main);
+      font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      padding: 30px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    header {
+      width: 100%;
+      max-width: 900px;
+      margin-bottom: 25px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--border-color);
+      padding-bottom: 15px;
+    }
+
+    .header-title h1 {
+      font-size: 22px;
+      font-weight: 800;
+      background: linear-gradient(135deg, var(--accent-purple), var(--accent-green));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      letter-spacing: 1px;
+    }
+
+    .header-title p {
+      font-size: 13px;
+      color: var(--text-muted);
+      font-family: 'Fira Code', monospace;
+    }
+
+    .controls {
+      display: flex;
+      gap: 12px;
+    }
+
+    button {
+      background-color: var(--panel-dark);
+      color: var(--text-main);
+      border: 1px solid var(--border-color);
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-family: 'Outfit', sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.2s ease;
+    }
+
+    button:hover {
+      background-color: var(--accent-purple);
+      border-color: var(--accent-purple);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(155, 114, 207, 0.3);
+    }
+
+    button:active {
+      transform: translateY(0);
+    }
+
+    .container {
+      width: 100%;
+      max-width: 900px;
+      background-color: var(--panel-dark);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 40px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+      position: relative;
+    }
+
+    /* Markdown Styling (Replicating and improving GitHub dark-mode) */
+    .markdown-body {
+      font-size: 15px;
+    }
+
+    .markdown-body h2 {
+      font-size: 20px;
+      font-weight: 700;
+      border-bottom: 1px solid var(--border-color);
+      padding-bottom: 8px;
+      margin-top: 24px;
+      margin-bottom: 16px;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .markdown-body h3 {
+      font-size: 16px;
+      font-weight: 600;
+      margin-top: 18px;
+      margin-bottom: 10px;
+      color: #ffffff;
+    }
+
+    .markdown-body h4 {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--accent-purple);
+      margin-top: 12px;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .markdown-body p {
+      margin-bottom: 16px;
+      color: var(--text-main);
+    }
+
+    .markdown-body a {
+      color: var(--accent-purple);
+      text-decoration: none;
+    }
+
+    .markdown-body a:hover {
+      text-decoration: underline;
+    }
+
+    .markdown-body ul, .markdown-body ol {
+      margin-bottom: 16px;
+      padding-left: 20px;
+    }
+
+    .markdown-body li {
+      margin-bottom: 6px;
+    }
+
+    .markdown-body hr {
+      height: 1px;
+      background-color: var(--border-color);
+      border: none;
+      margin: 24px 0;
+    }
+
+    .markdown-body blockquote {
+      padding: 0 1em;
+      color: var(--text-muted);
+      border-left: 0.25em solid var(--accent-purple);
+      margin-bottom: 16px;
+      background: rgba(155, 114, 207, 0.05);
+      padding: 12px 16px;
+      border-radius: 0 6px 6px 0;
+    }
+
+    .markdown-body blockquote p {
+      margin-bottom: 0;
+      font-style: italic;
+    }
+
+    /* Accordions / Collapsible elements */
+    .markdown-body details {
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      margin-bottom: 12px;
+      background-color: rgba(10, 9, 21, 0.4);
+      transition: all 0.3s ease;
+    }
+
+    .markdown-body details[open] {
+      border-color: var(--accent-purple);
+      box-shadow: 0 4px 15px rgba(155, 114, 207, 0.1);
+    }
+
+    .markdown-body summary {
+      padding: 14px 18px;
+      font-weight: 600;
+      cursor: pointer;
+      outline: none;
+      user-select: none;
+      color: #ffffff;
+      font-size: 15px;
+      display: list-item;
+      transition: color 0.2s ease;
+    }
+
+    .markdown-body summary:hover {
+      color: var(--accent-purple);
+    }
+
+    .markdown-body details > div, .markdown-body details > br + * {
+      padding: 0 18px 18px 18px;
+    }
+
+    /* Tech Stack Grid and alignment */
+    .markdown-body table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 16px;
+      border-radius: 6px;
+      overflow: hidden;
+    }
+
+    .markdown-body table th, .markdown-body table td {
+      padding: 12px 15px;
+      border: 1px solid var(--border-color);
+      text-align: left;
+    }
+
+    .markdown-body table th {
+      background-color: rgba(37, 33, 71, 0.5);
+      font-weight: 600;
+    }
+
+    .markdown-body table tr:nth-child(even) {
+      background-color: rgba(255, 255, 255, 0.02);
+    }
+
+    .markdown-body img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 6px;
+    }
+
+    /* Text view container */
+    #code-view {
+      display: none;
+      width: 100%;
+      height: 600px;
+      background-color: var(--bg-dark);
+      color: #7ec699;
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      padding: 20px;
+      font-family: 'Fira Code', monospace;
+      font-size: 13px;
+      resize: vertical;
+      outline: none;
+      white-space: pre;
+      overflow: auto;
+    }
+
+    /* Toast notification */
+    #toast {
+      position: fixed;
+      bottom: 30px;
+      left: 50%;
+      transform: translateX(-50%) translateY(100px);
+      background-color: var(--accent-green);
+      color: #000;
+      padding: 10px 24px;
+      border-radius: 20px;
+      font-weight: 600;
+      font-size: 14px;
+      box-shadow: 0 5px 15px rgba(0, 208, 132, 0.4);
+      transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      z-index: 100;
+      pointer-events: none;
+    }
+
+    #toast.show {
+      transform: translateX(-50%) translateY(0);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-title">
+      <h1>isaddiq GitHub Profile</h1>
+      <p>Interactive README &amp; Custom SVG Previewer</p>
+    </div>
+    <div class="controls">
+      <button id="toggle-btn" onclick="toggleView()">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 18L22 12L16 6M8 6L2 12L8 18"/></svg>
+        View Source Code
+      </button>
+      <button id="copy-btn" onclick="copyMarkdown()">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+        Copy Markdown
+      </button>
+    </div>
+  </header>
+
+  <div class="container">
+    <div id="preview-view" class="markdown-body">
+      <!-- Markdown parsed content will go here -->
+    </div>
+    <textarea id="code-view" readonly></textarea>
+  </div>
+
+  <div id="toast">Markdown copied to clipboard!</div>
+
+  <script>
+    let rawMarkdown = '';
+    const previewDiv = document.getElementById('preview-view');
+    const codeArea = document.getElementById('code-view');
+    const toggleBtn = document.getElementById('toggle-btn');
+    let showingCode = false;
+
+    // Fetch and render the README.md
+    async function loadReadme() {
+      try {
+        const response = await fetch('README.md');
+        if (!response.ok) {
+          throw new Error('Failed to load README.md');
+        }
+        rawMarkdown = await response.text();
+        
+        // Render markdown using marked.js
+        previewDiv.innerHTML = marked.parse(rawMarkdown);
+        codeArea.value = rawMarkdown;
+      } catch (err) {
+        previewDiv.innerHTML = `<div style="color: #E51050; padding: 20px; font-weight: bold;">Error loading README: ${err.message}<br/><br/>Make sure you are running a local web server (e.g. VS Code Live Server or Python http.server) to load the markdown file correctly.</div>`;
+      }
+    }
+
+    function toggleView() {
+      showingCode = !showingCode;
+      if (showingCode) {
+        previewDiv.style.display = 'none';
+        codeArea.style.display = 'block';
+        toggleBtn.innerHTML = `
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+          View Live Preview
+        `;
+      } else {
+        previewDiv.style.display = 'block';
+        codeArea.style.display = 'none';
+        toggleBtn.innerHTML = `
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 18L22 12L16 6M8 6L2 12L8 18"/></svg>
+          View Source Code
+        `;
+      }
+    }
+
+    function copyMarkdown() {
+      navigator.clipboard.writeText(rawMarkdown).then(() => {
+        const toast = document.getElementById('toast');
+        toast.classList.add('show');
+        setTimeout(() => {
+          toast.classList.remove('show');
+        }, 2500);
+      });
+    }
+
+    // Initialize
+    loadReadme();
+  </script>
+</body>
+</html>

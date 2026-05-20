@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&amp;family=Fira+Code:wght@400;500&amp;display=swap');
+      .title {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 800;
+        font-size: 34px;
+        fill: #ffffff;
+        letter-spacing: 4px;
+      }
+      .subtitle {
+        font-family: 'Fira Code', monospace;
+        font-weight: 400;
+        font-size: 14px;
+        fill: #9B72CF;
+        letter-spacing: 2px;
+      }
+      .desc {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 300;
+        font-size: 13px;
+        fill: #a0aec0;
+        letter-spacing: 1px;
+      }
+      .glow-node {
+        animation: pulseNode 3s ease-in-out infinite;
+      }
+      .glow-path {
+        stroke: url(#cyan-purple-grad);
+        stroke-width: 1.5;
+        stroke-dasharray: 8 12;
+        animation: flowDash 6s linear infinite;
+      }
+      .banner-bg {
+        fill: url(#bg-grad);
+      }
+      @keyframes pulseNode {
+        0%, 100% { r: 2px; opacity: 0.4; }
+        50% { r: 5px; opacity: 0.9; filter: drop-shadow(0 0 3px #00D084); }
+      }
+      @keyframes flowDash {
+        0% { stroke-dashoffset: 40; }
+        100% { stroke-dashoffset: 0; }
+      }
+      .text-glow {
+        filter: drop-shadow(0 0 8px #9B72CF);
+      }
+    </style>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070612" />
+      <stop offset="50%" stop-color="#0f0c24" />
+      <stop offset="100%" stop-color="#06050e" />
+    </linearGradient>
+    <linearGradient id="cyan-purple-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0078D4" />
+      <stop offset="50%" stop-color="#9B72CF" />
+      <stop offset="100%" stop-color="#00D084" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="100%" height="100%" class="banner-bg"/>
+  
+  <!-- Architectural Wireframe Grid Background -->
+  <g opacity="0.4">
+    <!-- Perspective grid -->
+    <path d="M 0 200 L 300 120 M 800 200 L 500 120 M 400 0 L 400 200" stroke="#252147" stroke-width="1"/>
+    <line x1="0" y1="120" x2="800" y2="120" stroke="#252147" stroke-width="0.75"/>
+    <line x1="0" y1="150" x2="800" y2="150" stroke="#252147" stroke-width="0.75"/>
+    <line x1="0" y1="180" x2="800" y2="180" stroke="#252147" stroke-width="0.75"/>
+    
+    <!-- Vertical lines stretching to perspective -->
+    <line x1="100" y1="200" x2="330" y2="120" stroke="#252147" stroke-width="0.5"/>
+    <line x1="200" y1="200" x2="360" y2="120" stroke="#252147" stroke-width="0.5"/>
+    <line x1="600" y1="200" x2="440" y2="120" stroke="#252147" stroke-width="0.5"/>
+    <line x1="700" y1="200" x2="470" y2="120" stroke="#252147" stroke-width="0.5"/>
+  </g>
+  
+  <!-- Animated Data/BIM Connections -->
+  <path d="M -50 160 Q 200 110, 400 140 T 850 100" fill="none" class="glow-path" opacity="0.7"/>
+  <path d="M -50 80 Q 250 150, 450 90 T 850 160" fill="none" class="glow-path" style="animation-duration: 9s; stroke-dasharray: 6 15; opacity: 0.5;"/>
+
+  <!-- Network nodes -->
+  <circle cx="200" cy="110" r="3" class="glow-node" style="animation-delay: 0s; fill: #0078D4;"/>
+  <circle cx="400" cy="140" r="3" class="glow-node" style="animation-delay: 1.5s; fill: #9B72CF;"/>
+  <circle cx="250" cy="150" r="3" class="glow-node" style="animation-delay: 0.7s; fill: #00D084;"/>
+  <circle cx="450" cy="90" r="3" class="glow-node" style="animation-delay: 2.2s; fill: #FF6B35;"/>
+  
+  <!-- Isometric Wireframe Box (Digital Twin Concept) -->
+  <g transform="translate(680, 50)" opacity="0.8">
+    <polygon points="40,0 80,20 40,40 0,20" fill="none" stroke="#9B72CF" stroke-width="1">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
+    </polygon>
+    <polygon points="40,40 80,20 80,70 40,90" fill="none" stroke="#0078D4" stroke-width="1">
+      <animate attributeName="opacity" values="0.7;0.3;0.7" dur="4s" repeatCount="indefinite"/>
+    </polygon>
+    <polygon points="40,40 0,20 0,70 40,90" fill="none" stroke="#00D084" stroke-width="1">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" repeatCount="indefinite"/>
+    </polygon>
+    <!-- Core glowing ball -->
+    <circle cx="40" cy="45" r="8" fill="#FF6B35" opacity="0.6">
+      <animate attributeName="r" values="6;10;6" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Left Design Lines -->
+  <line x1="40" y1="50" x2="40" y2="150" stroke="#9B72CF" stroke-width="3" opacity="0.8"/>
+  <line x1="40" y1="70" x2="60" y2="70" stroke="#0078D4" stroke-width="2" opacity="0.8"/>
+
+  <!-- Texts -->
+  <g transform="translate(70, 0)">
+    <text x="0" y="85" class="title text-glow">SADDIQ UR REHMAN</text>
+    <text x="0" y="115" class="subtitle">PhD Candidate | BIM &amp; XR Researcher</text>
+    <text x="0" y="145" class="desc">Bridging Digital Twins &amp; Immersive Technologies for AEC Automation</text>
+  </g>
+  
+  <!-- Subtle scanning line -->
+  <line x1="0" y1="0" x2="0" y2="200" stroke="#9B72CF" stroke-width="2" opacity="0.3">
+    <animate attributeName="x1" values="-10; 810; -10" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="-10; 810; -10" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.1; 0.4; 0.1" dur="8s" repeatCount="indefinite"/>
+  </line>
+</svg>
