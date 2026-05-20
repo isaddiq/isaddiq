@@ -33,7 +33,7 @@ My research focuses on creating **interoperable digital workflows** that bridge 
 
 *   **📍 Location:** Seoul, South Korea
 *   **🎓 Degree:** PhD in Architecture (Expected Q3 2026)
-*   **🔬 Laboratory:** [Innovative Technology in Architecture Lab (Italab)](http://italab.khu.ac.kr/)
+*   **🔬 Laboratory:** [Information Technology in Architecture Lab (Italab)](http://italab.khu.ac.kr/)
 
 <br clear="right"/>
 
