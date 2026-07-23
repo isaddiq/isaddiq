@@ -5,6 +5,9 @@
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=isaddiq&amp;style=for-the-badge&amp;color=7aa2f7&amp;label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/isaddiq?style=for-the-badge&amp;color=bb9af7&amp;labelColor=1a1b27&amp;label=FOLLOWERS&amp;logo=github&amp;logoColor=white" alt="GitHub followers" />
+
 <!-- ══════════════════ ABOUT ══════════════════ -->
 
 ## &nbsp;🧑‍🔬&nbsp; About Me
@@ -66,7 +69,7 @@ focus:      [ semantic BIM, openBIM/IFC, BIM-to-XR, LLM grounding ]
 ## &nbsp;🧩&nbsp; Featured Projects
 
 <details open>
-<summary><b> 🔧  BIMUniXchange : Cross-Platform Semantic Exchange</b></summary>
+<summary><b> 🔧  BIMUniXchange : Cross-Platform Semantic Exchange</b></summary>
 <br/>
 
 > A semantic data exchange framework enabling interoperable **BIM-to-XR** pipelines across Autodesk Revit, Graphisoft ArchiCAD, and real-time game engines.
@@ -85,7 +88,7 @@ focus:      [ semantic BIM, openBIM/IFC, BIM-to-XR, LLM grounding ]
 </details>
 
 <details open>
-<summary><b> 🏭  Modular Factory 4D BIM Simulation</b></summary>
+<summary><b> 🏭  Modular Factory 4D BIM Simulation</b></summary>
 <br/>
 
 > An immersive **VR environment** for planning, simulating, and reviewing modular construction factory workflows.
@@ -104,7 +107,7 @@ focus:      [ semantic BIM, openBIM/IFC, BIM-to-XR, LLM grounding ]
 </details>
 
 <details open>
-<summary><b> 🗣️  Voice-Activated MR Inspection Assistant</b></summary>
+<summary><b> 🗣️  Voice-Activated MR Inspection Assistant</b></summary>
 <br/>
 
 > A natural language interface overlaid on BIM components via **HoloLens 2**, built on OpenAI and Azure Speech.
@@ -123,6 +126,20 @@ focus:      [ semantic BIM, openBIM/IFC, BIM-to-XR, LLM grounding ]
 
 <div align="center">
 
+**Core Stack**
+
+<img src="https://skillicons.dev/icons?i=cs,py,js,ts,unity,unreal,blender,azure,git,github,vscode,figma&amp;theme=dark" alt="Core technology stack" />
+
+<br/><br/>
+
+**AEC & Extended Reality Platforms**
+
+<img src="https://img.shields.io/badge/Autodesk%20Revit-A0181A?style=for-the-badge&amp;logo=autodesk&amp;logoColor=white" alt="Autodesk Revit" />
+<img src="https://img.shields.io/badge/Graphisoft%20ArchiCAD-1B75BB?style=for-the-badge" alt="Graphisoft ArchiCAD" />
+<img src="https://img.shields.io/badge/openBIM%20%7C%20IFC-F9A03F?style=for-the-badge" alt="openBIM / IFC" />
+<img src="https://img.shields.io/badge/HoloLens%202-0078D4?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="HoloLens 2" />
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI API" />
+
 </div>
 
 <!-- ══════════════════ STATS ══════════════════ -->
@@ -133,6 +150,10 @@ focus:      [ semantic BIM, openBIM/IFC, BIM-to-XR, LLM grounding ]
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaddiq&amp;theme=tokyonight" width="49%" alt="GitHub statistics" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaddiq&amp;theme=tokyonight" width="49%" alt="Top languages by repository" />
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com/?user=isaddiq&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=6" width="70%" alt="GitHub contribution streak" />
 
 </div>
 
@@ -155,10 +176,16 @@ I am always open to working with researchers, developers, and industry partners 
 - 📦 &nbsp;**Modular / DfMA** : prefabricated structural planning, sensor integration
 - 🎓 &nbsp;**Academic Research** : joint publications and research grants
 
-<div align="center">
+<br/>
+
+<a href="https://github.com/isaddiq"><img src="https://img.shields.io/badge/GitHub-isaddiq-1a1b27?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="mailto:saddiq.r.97@gmail.com"><img src="https://img.shields.io/badge/Email-saddiq.r.97%40gmail.com-1a1b27?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+<a href="http://italab.khu.ac.kr/"><img src="https://img.shields.io/badge/ITALAB-Kyung%20Hee%20University-1a1b27?style=for-the-badge" alt="ITALAB" /></a>
 
 <!-- ══════════════════ FOOTER ══════════════════ -->
 
-<div align="center">
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
+
+</div>
