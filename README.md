@@ -1,7 +1,6 @@
-
 <!-- ══════════════════ ANIMATED HEADER ══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=210&section=header&text=Saddiq%20Ur%20Rehman&fontSize=48&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=BIM%20%C2%B7%20Extended%20Reality%20%C2%B7%20AI%20for%20the%20AEC%20Industry&descSize=17&descAlignY=54" width="100%" alt="Saddiq Ur Rehman" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=210&section=header&text=Saddiq%20Ur%20Rehman&fontSize=48&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Construction%20Informatics%20%C2%B7%20BIM%20%C2%B7%20Digital%20Twins%20%C2%B7%20XR%20%C2%B7%20AI%20%26%20Robotics&descSize=17&descAlignY=54" width="100%" alt="Saddiq Ur Rehman" />
 
 <div align="center">
 
@@ -10,129 +9,127 @@
 
 <!-- ══════════════════ ABOUT ══════════════════ -->
 
-## &nbsp;🧑‍🔬&nbsp; About Me
+##  🧑‍🔬  About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="coding" />
 
-I am a **PhD Candidate** at the [Information Technology in Architecture Lab (ITALAB)](http://italab.khu.ac.kr/), **Department of Architecture, Kyung Hee University**, working at the intersection of **Building Information Modeling**, **Extended Reality**, and **AI-driven design automation**.
+I am a **Postdoctoral Fellow** in the **Department of Architecture, Kyung Hee University, South Korea**, working in the field of **Construction Informatics** at the intersection of **Building Information Modeling (BIM), Digital Twins, Extended Reality (XR), Artificial Intelligence, and Robotics**.
 
-My research develops **interoperable digital workflows** that connect BIM authoring platforms to immersive real-time environments : closing the semantic gap that opens whenever building models cross into game engines, headsets, and AI tooling.
+My research focuses on developing **semantically connected and intelligent digital environments** that bridge building information, physical assets, humans, and autonomous systems throughout the building lifecycle.
+
+A central theme of my work is improving interoperability between BIM, real-time environments, AI systems, and robotic platforms. This includes semantic BIM-to-XR workflows, trustworthy AI-assisted inspection, LLM-grounded BIM interaction, robot-ready building information, human-robot collaboration, and digital twin systems for construction and built-asset monitoring.
 
 ```yaml
-location:   Seoul, South Korea
-degree:     PhD in Architecture  →  Expected Q3 2026
-laboratory: ITALAB, Kyung Hee University
-focus:      [ semantic BIM, openBIM/IFC, BIM-to-XR, LLM grounding ]
+location:   South Korea
+position:   Postdoctoral Fellow
+department: Department of Architecture, Kyung Hee University
+degree:     PhD in Architecture
+field:      Construction Informatics
+focus:
+  - semantic BIM and openBIM
+  - semantic digital twins
+  - BIM-to-XR interoperability
+  - AI and LLMs for AEC
+  - construction robotics
+  - human-robot collaboration
+  - robotic inspection
+  - reality capture
+  - robot-friendly buildings
 ```
 
 <br clear="right"/>
 
 <!-- ══════════════════ RESEARCH ══════════════════ -->
 
-## &nbsp;🎯&nbsp; Research Focus & Pillars
-
-<div align="center">
-  <img src="assets/research_orbit.svg" alt="PhD Research Focus Orbit" width="100%" />
-</div>
+##  🎯  Research Interests
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🔗 BIM–XR Integration</h4>
-      Cross-platform pipelines and semantic data exchange between Revit / ArchiCAD and Unity / Unreal.
+      <h4>🔗 Semantic BIM & Interoperability</h4>
+      Semantic information exchange across BIM authoring tools, openBIM / IFC, databases, digital twins, real-time engines, AI systems, and robotic platforms.
     </td>
     <td width="50%" valign="top">
-      <h4>🕓 4D BIM Simulation</h4>
-      VR-based construction scheduling, workflow planning, and prefabrication assembly sequencing.
+      <h4>🌐 Semantic Digital Twins</h4>
+      Digital twin architectures that connect physical assets, BIM elements, inspection evidence, sensor information, provenance, reliability, and decision histories.
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h4>🏭 Digital Twins & DfMA</h4>
-      Frameworks for Design-for-Manufacture-and-Assembly progress tracking and validation.
+      <h4>🥽 BIM–XR & Immersive Environments</h4>
+      BIM-to-XR pipelines for virtual and mixed reality applications supporting construction planning, inspection, information access, collaboration, and asset management.
     </td>
     <td width="50%" valign="top">
-      <h4>🥽 Mixed Reality Inspection</h4>
-      Voice-assisted HoloLens 2 workflows for on-site inspection and quality control.
+      <h4>🤖 AI & LLMs for the Built Environment</h4>
+      Grounded large language models, conversational BIM interfaces, agentic AI, automated design review, requirements interpretation, and AI-assisted decision support.
     </td>
   </tr>
+
   <tr>
-    <td colspan="2" valign="top">
-      <h4>🤖 AI Design Automation</h4>
-      LLM agents for grounded BIM querying, automated design review, and layout generation.
+    <td width="50%" valign="top">
+      <h4>🏗️ Construction Robotics</h4>
+      Integration of BIM, digital twins, autonomous robots, sensing systems, and simulation environments for construction and inspection applications.
+    </td>
+    <td width="50%" valign="top">
+      <h4>👷 Human–Robot Collaboration</h4>
+      Human and robot coordination in shared built environments, including workflow planning, shared infrastructure, robot navigation, vertical transportation, and operational efficiency.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📡 Reality Capture & Intelligent Inspection</h4>
+      Integration of RGB imagery, point clouds, computer vision, multimodal sensing, BIM, and AI for automated inspection, progress monitoring, defect assessment, and evidence-based decision making.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 Robot-Friendly Building Design</h4>
+      Building information and design strategies that improve robot accessibility, navigation, task execution, information exchange, and long-term human-robot coexistence.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏭 DfMA & Modular Construction</h4>
+      Digital methods for Design for Manufacture and Assembly, modular construction planning, prefabrication, production simulation, inspection, and lifecycle information integration.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🕓 4D BIM & Construction Simulation</h4>
+      BIM-based construction sequencing, workflow simulation, virtual environments, productivity analysis, and operational scenario evaluation.
     </td>
   </tr>
 </table>
 
-<!-- ══════════════════ PROJECTS ══════════════════ -->
+<!-- ══════════════════ KEYWORDS ══════════════════ -->
 
-## &nbsp;🧩&nbsp; Featured Projects
-
-<details open>
-<summary><b> 🔧  BIMUniXchange : Cross-Platform Semantic Exchange</b></summary>
-<br/>
-
-> A semantic data exchange framework enabling interoperable **BIM-to-XR** pipelines across Autodesk Revit, Graphisoft ArchiCAD, and real-time game engines.
+##  🔬  Research Keywords
 
 <div align="center">
-  <img src="assets/bim_xr_pipeline.svg" alt="BIMUniXchange Pipeline" width="100%" />
+
+`Construction Informatics` · `Building Information Modeling` · `BIM` · `openBIM` · `IFC`
+`Semantic BIM` · `Semantic Interoperability` · `Knowledge Graphs` · `Digital Twins`
+`Extended Reality` · `Virtual Reality` · `Mixed Reality` · `BIM-to-XR`
+`Artificial Intelligence` · `Large Language Models` · `LLM Grounding` · `Agentic AI`
+`Construction Robotics` · `Human–Robot Collaboration` · `Robot-Friendly Buildings`
+`Robotic Inspection` · `Reality Capture` · `Computer Vision` · `Multimodal Sensing`
+`4D BIM` · `Construction Simulation` · `DfMA` · `Modular Construction`
+`Asset Inspection` · `Built-Asset Monitoring` · `Trustworthy AI`
+
 </div>
-
-|    | Capability                                                                                            |
-| -- | ----------------------------------------------------------------------------------------------------- |
-| 📦 | **Semantic Export** : IFC metadata, material databases, and structural element hierarchies      |
-| 🔗 | **Multi-Platform** : Revit (OBJ geometry exporter) and ArchiCAD (FBX layout exporter)           |
-| 🔁 | **Relational SQLite Mapper** : bidirectional element-ID bridging with round-trip data integrity |
-| 🥽 | **Real-time Optimization** : automatic mesh reduction for mobile and standalone VR              |
-
-</details>
-
-<details open>
-<summary><b> 🏭  Modular Factory 4D BIM Simulation</b></summary>
-<br/>
-
-> An immersive **VR environment** for planning, simulating, and reviewing modular construction factory workflows.
-
-```
-[ Framing ] ──▶ [ MEP Rough-In ] ──▶ [ Enclosure ] ──▶ [ Finishes ] ──▶ [ QC ] ──▶ [ Delivery ]
-```
-
-|      | Capability                                                                                      |
-| ---- | ----------------------------------------------------------------------------------------------- |
-| 🚶   | **First-Person Navigation** : teleportation and physics-based collision in VR             |
-| 🧱   | **Interactive BIM Components** : pick up, inspect, and snap modular wall/ceiling units    |
-| 🎚️ | **Timeline Scrubbing** : traverse the construction schedule in real time                  |
-| 📊   | **Progress Dashboard** : web-linked material availability and assembly completion metrics |
-
-</details>
-
-<details open>
-<summary><b> 🗣️  Voice-Activated MR Inspection Assistant</b></summary>
-<br/>
-
-> A natural language interface overlaid on BIM components via **HoloLens 2**, built on OpenAI and Azure Speech.
-
-|      | Capability                                                                                              |
-| ---- | ------------------------------------------------------------------------------------------------------- |
-| 🎙️ | **Hands-free Voice Queries** : *"What is the structural rating of this beam?"*                  |
-| 🟢   | **Status Highlighting** : colour-coded overlays on components (Checked / Warning / Error)         |
-| 📝   | **Real-time Logging** : voice notes transcribed and written back to the BIM database via web APIs |
-
-</details>
 
 <!-- ══════════════════ STACK ══════════════════ -->
 
-## &nbsp;🛠️&nbsp; Technology Stack
+##  🛠️  Technology Stack
 
 <div align="center">
 
-**Core Stack**
+**Programming & Development**
 
 <img src="https://skillicons.dev/icons?i=cs,py,js,ts,unity,unreal,blender,azure,git,github,vscode,figma&amp;theme=dark" alt="Core technology stack" />
 
 <br/><br/>
 
-**AEC & Extended Reality Platforms**
+**AEC, XR & Digital Twin Platforms**
 
 <img src="https://img.shields.io/badge/Autodesk%20Revit-A0181A?style=for-the-badge&amp;logo=autodesk&amp;logoColor=white" alt="Autodesk Revit" />
 <img src="https://img.shields.io/badge/Graphisoft%20ArchiCAD-1B75BB?style=for-the-badge" alt="Graphisoft ArchiCAD" />
@@ -140,11 +137,20 @@ focus:      [ semantic BIM, openBIM/IFC, BIM-to-XR, LLM grounding ]
 <img src="https://img.shields.io/badge/HoloLens%202-0078D4?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="HoloLens 2" />
 <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI API" />
 
+<br/><br/>
+
+**Research Areas**
+
+<img src="https://img.shields.io/badge/Semantic%20Digital%20Twins-1a1b27?style=for-the-badge" alt="Semantic Digital Twins" />
+<img src="https://img.shields.io/badge/Construction%20Robotics-1a1b27?style=for-the-badge" alt="Construction Robotics" />
+<img src="https://img.shields.io/badge/Reality%20Capture-1a1b27?style=for-the-badge" alt="Reality Capture" />
+<img src="https://img.shields.io/badge/Human--Robot%20Collaboration-1a1b27?style=for-the-badge" alt="Human-Robot Collaboration" />
+
 </div>
 
 <!-- ══════════════════ STATS ══════════════════ -->
 
-## &nbsp;📊&nbsp; GitHub Analytics
+##  📊  GitHub Analytics
 
 <div align="center">
 
@@ -157,7 +163,7 @@ focus:      [ semantic BIM, openBIM/IFC, BIM-to-XR, LLM grounding ]
 
 </div>
 
-## &nbsp;🏆&nbsp; GitHub Trophies
+##  🏆  GitHub Trophies
 
 <div align="center">
 
@@ -167,20 +173,22 @@ focus:      [ semantic BIM, openBIM/IFC, BIM-to-XR, LLM grounding ]
 
 <!-- ══════════════════ COLLABORATION ══════════════════ -->
 
-## &nbsp;🌟&nbsp; Let's Collaborate
+##  🌟  Research & Collaboration
 
-I am always open to working with researchers, developers, and industry partners on:
+I am interested in research collaborations across academia and industry in areas including:
 
-- 🏗️ &nbsp;**BIM–XR Integration** : workflows, schemas, geometry pipelines
-- 🤖 &nbsp;**AI in Construction** : automated design review, agentic AEC systems
-- 📦 &nbsp;**Modular / DfMA** : prefabricated structural planning, sensor integration
-- 🎓 &nbsp;**Academic Research** : joint publications and research grants
+* 🏗️  **Construction Informatics** : BIM, openBIM, semantic interoperability, and lifecycle information management
+* 🌐  **Digital Twins** : semantic digital twins, asset monitoring, inspection evidence, and decision support
+* 🥽  **BIM–XR Integration** : BIM-to-XR workflows, immersive construction environments, and mixed reality inspection
+* 🤖  **AI for AEC** : LLM-grounded BIM systems, agentic AI, automated design review, and intelligent decision support
+* 🦾  **Construction Robotics** : BIM-robot integration, robotic inspection, navigation, and robot-ready information
+* 👷  **Human–Robot Collaboration** : shared building infrastructure, operational simulation, and collaborative workflows
+* 📡  **Reality Capture** : point clouds, computer vision, multimodal sensing, and BIM-linked inspection
+* 📦  **Modular Construction & DfMA** : prefabrication, production simulation, digital inspection, and information integration
 
 <br/>
 
-<a href="https://github.com/isaddiq"><img src="https://img.shields.io/badge/GitHub-isaddiq-1a1b27?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-<a href="mailto:saddiq.r.97@gmail.com"><img src="https://img.shields.io/badge/Email-saddiq.r.97%40gmail.com-1a1b27?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-<a href="http://italab.khu.ac.kr/"><img src="https://img.shields.io/badge/ITALAB-Kyung%20Hee%20University-1a1b27?style=for-the-badge" alt="ITALAB" /></a>
+<a href="https://github.com/isaddiq"><img src="https://img.shields.io/badge/GitHub-isaddiq-1a1b27?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a> <a href="mailto:saddiq.r.97@gmail.com"><img src="https://img.shields.io/badge/Email-saddiq.r.97%40gmail.com-1a1b27?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a> <a href="https://www.khu.ac.kr/"><img src="https://img.shields.io/badge/Kyung%20Hee%20University-Department%20of%20Architecture-1a1b27?style=for-the-badge" alt="Kyung Hee University" /></a>
 
 <!-- ══════════════════ FOOTER ══════════════════ -->
 
