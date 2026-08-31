@@ -21,26 +21,6 @@ My research focuses on developing **semantically connected and intelligent digit
 
 A central theme of my work is improving interoperability between BIM, real-time environments, AI systems, and robotic platforms. This includes semantic BIM-to-XR workflows, trustworthy AI-assisted inspection, LLM-grounded BIM interaction, robot-ready building information, human-robot collaboration, and digital twin systems for construction and built-asset monitoring.
 
-```yaml
-location:   South Korea
-position:   Postdoctoral Fellow
-department: Department of Architecture, Kyung Hee University
-degree:     PhD in Architecture
-field:      Construction Informatics
-
-research:
-  - semantic BIM and openBIM
-  - semantic digital twins
-  - BIM-to-XR interoperability
-  - AI and LLMs for AEC
-  - construction robotics
-  - human-robot collaboration
-  - robotic inspection
-  - reality capture
-  - robot-friendly buildings
-  - modular construction and DfMA
-```
-
 <br clear="right"/>
 
 <!-- ══════════════════ RESEARCH OVERVIEW ══════════════════ -->
