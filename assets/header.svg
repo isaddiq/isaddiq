@@ -1,0 +1,77 @@
+<svg width="1200" height="270" viewBox="0 0 1200 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="270" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0F172A"/>
+    <stop offset="0.42" stop-color="#1E3A8A"/>
+    <stop offset="0.75" stop-color="#6D28D9"/>
+    <stop offset="1" stop-color="#0F172A"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-200 0;200 0;-200 0" dur="12s" repeatCount="indefinite"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="6" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<rect width="1200" height="270" rx="24" fill="url(#bg)"/>
+
+<g opacity="0.35">
+  <circle cx="120" cy="55" r="4" fill="#7DD3FC">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1020" cy="70" r="5" fill="#C4B5FD">
+    <animate attributeName="opacity" values="1;0.2;1" dur="3.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="190" r="3.5" fill="#93C5FD">
+    <animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="180" cy="205" r="3" fill="#DDD6FE">
+    <animate attributeName="opacity" values="1;0.15;1" dur="3.4s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g opacity="0.28" stroke="#93C5FD" stroke-width="1.5">
+  <path d="M40 220 C220 150 340 250 510 180 S820 110 1160 190">
+    <animate attributeName="d"
+      values="M40 220 C220 150 340 250 510 180 S820 110 1160 190;
+              M40 200 C220 250 340 140 510 205 S820 245 1160 160;
+              M40 220 C220 150 340 250 510 180 S820 110 1160 190"
+      dur="10s" repeatCount="indefinite"/>
+  </path>
+  <path d="M30 235 C230 175 390 265 570 205 S870 140 1170 210" opacity="0.45">
+    <animate attributeName="d"
+      values="M30 235 C230 175 390 265 570 205 S870 140 1170 210;
+              M30 215 C230 265 390 155 570 225 S870 260 1170 180;
+              M30 235 C230 175 390 265 570 205 S870 140 1170 210"
+      dur="12s" repeatCount="indefinite"/>
+  </path>
+</g>
+
+<text x="600" y="92" text-anchor="middle" fill="#FFFFFF"
+      font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" filter="url(#glow)">
+  Saddiq Ur Rehman
+</text>
+
+<text x="600" y="135" text-anchor="middle" fill="#E0E7FF"
+      font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">
+  Postdoctoral Fellow · Department of Architecture · Kyung Hee University
+</text>
+
+<g>
+  <text x="600" y="181" text-anchor="middle" fill="#BFDBFE"
+        font-family="Consolas, Menlo, monospace" font-size="18">
+    <tspan opacity="1">Construction Informatics · BIM · Digital Twins · AI · XR · Robotics</tspan>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.88;1" dur="5s" repeatCount="indefinite"/>
+  </text>
+</g>
+
+<g transform="translate(425 215)">
+  <rect x="0" y="0" width="350" height="6" rx="3" fill="#FFFFFF" opacity="0.12"/>
+  <rect x="0" y="0" width="90" height="6" rx="3" fill="#93C5FD">
+    <animate attributeName="x" values="0;260;0" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+</g>
+</svg>

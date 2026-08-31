@@ -1,0 +1,72 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <radialGradient id="core" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#60A5FA"/>
+    <stop offset="100%" stop-color="#4F46E5"/>
+  </radialGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="1200" height="500" rx="24" fill="#0F172A"/>
+
+<g transform="translate(600 250)">
+  <ellipse rx="390" ry="165" fill="none" stroke="#334155" stroke-width="2"/>
+  <ellipse rx="305" ry="120" fill="none" stroke="#334155" stroke-width="1.5" stroke-dasharray="7 8">
+    <animateTransform attributeName="transform" type="rotate" values="0;360" dur="35s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <circle r="92" fill="url(#core)" filter="url(#glow)">
+    <animate attributeName="r" values="88;96;88" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <text text-anchor="middle" y="-5" fill="white" font-family="Segoe UI, Arial" font-size="23" font-weight="700">Construction</text>
+  <text text-anchor="middle" y="24" fill="white" font-family="Segoe UI, Arial" font-size="23" font-weight="700">Informatics</text>
+
+  <g font-family="Segoe UI, Arial" font-size="17" font-weight="600">
+    <g transform="translate(-350 -100)">
+      <circle r="58" fill="#172554" stroke="#60A5FA" stroke-width="2"/>
+      <text text-anchor="middle" y="-4" fill="#DBEAFE">Semantic BIM</text>
+      <text text-anchor="middle" y="18" fill="#93C5FD" font-size="14">&amp; openBIM</text>
+    </g>
+
+    <g transform="translate(330 -110)">
+      <circle r="58" fill="#2E1065" stroke="#A78BFA" stroke-width="2"/>
+      <text text-anchor="middle" y="-4" fill="#EDE9FE">Digital Twins</text>
+      <text text-anchor="middle" y="18" fill="#C4B5FD" font-size="14">Semantics</text>
+    </g>
+
+    <g transform="translate(-390 90)">
+      <circle r="58" fill="#172554" stroke="#38BDF8" stroke-width="2"/>
+      <text text-anchor="middle" y="-4" fill="#E0F2FE">BIM–XR</text>
+      <text text-anchor="middle" y="18" fill="#7DD3FC" font-size="14">Immersive Systems</text>
+    </g>
+
+    <g transform="translate(395 85)">
+      <circle r="58" fill="#2E1065" stroke="#C084FC" stroke-width="2"/>
+      <text text-anchor="middle" y="-4" fill="#FAE8FF">AI &amp; LLMs</text>
+      <text text-anchor="middle" y="18" fill="#E9D5FF" font-size="14">for AEC</text>
+    </g>
+
+    <g transform="translate(-190 175)">
+      <circle r="58" fill="#0C4A6E" stroke="#7DD3FC" stroke-width="2"/>
+      <text text-anchor="middle" y="-4" fill="#E0F2FE">Robotics</text>
+      <text text-anchor="middle" y="18" fill="#BAE6FD" font-size="14">Inspection</text>
+    </g>
+
+    <g transform="translate(190 175)">
+      <circle r="58" fill="#312E81" stroke="#818CF8" stroke-width="2"/>
+      <text text-anchor="middle" y="-4" fill="#EEF2FF">Human–Robot</text>
+      <text text-anchor="middle" y="18" fill="#C7D2FE" font-size="14">Collaboration</text>
+    </g>
+  </g>
+
+  <circle cx="390" cy="0" r="7" fill="#93C5FD">
+    <animateTransform attributeName="transform" type="rotate" values="0;360" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="-305" cy="0" r="6" fill="#C4B5FD">
+    <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="9s" repeatCount="indefinite"/>
+  </circle>
+</g>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop stop-color="#0F172A"/>
+    <stop offset="0.5" stop-color="#1E3A8A"/>
+    <stop offset="1" stop-color="#6D28D9"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="120" fill="#0F172A"/>
+<path d="M0 70 C170 20, 340 110, 510 58 S850 10, 1200 65 V120 H0 Z" fill="url(#g)">
+  <animate attributeName="d"
+    values="M0 70 C170 20, 340 110, 510 58 S850 10, 1200 65 V120 H0 Z;
+            M0 58 C180 100, 350 20, 520 72 S860 105, 1200 48 V120 H0 Z;
+            M0 70 C170 20, 340 110, 510 58 S850 10, 1200 65 V120 H0 Z"
+    dur="9s" repeatCount="indefinite"/>
+</path>
+</svg>
