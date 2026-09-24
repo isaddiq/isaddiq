@@ -15,7 +15,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="coding" />
 
-I am a **Postdoctoral Fellow** in the **Department of Architecture, Kyung Hee University, South Korea**, working in the field of **Construction Informatics** at the intersection of **Building Information Modeling (BIM), Digital Twins, Extended Reality (XR), Artificial Intelligence, and Robotics**.
+I am a **Research Consultant** in the **Department of Architecture, Kyung Hee University, South Korea**, working in the field of **Construction Informatics** at the intersection of **Building Information Modeling (BIM), Digital Twins, Extended Reality (XR), Artificial Intelligence, and Robotics**.
 
 My research focuses on developing **semantically connected and intelligent digital environments** that bridge building information, physical assets, humans, and autonomous systems throughout the building lifecycle.
 
