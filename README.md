@@ -1,18 +1,12 @@
-<!-- ══════════════════ ANIMATED HEADER ══════════════════ -->
+<!-- ══════════════════ PROFILE_1 (ASCII PORTRAIT + ABOUT) ══════════════════ -->
 
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Saddiq Ur Rehman animated header" />
+  <img src="assets/profile_1.svg" width="100%" alt="ASCII-art portrait of Saddiq Ur Rehman beside a terminal-style profile: role, research focus, tech stack and contact" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isaddiq&style=for-the-badge&color=1e3a8a&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/isaddiq?style=for-the-badge&color=6d28d9&labelColor=0f172a&label=FOLLOWERS&logo=github&logoColor=white" alt="GitHub followers" />
-</p>
-
-<!-- ══════════════════ PROFILE_1 (ASCII PORTRAIT + ABOUT) ══════════════════ -->
-
-<p align="center">
-  <img src="assets/profile_1.svg" width="100%" alt="ASCII-art portrait of Saddiq Ur Rehman beside a terminal-style profile: role, research focus, tech stack and contact" />
 </p>
 
 <!-- ══════════════════ ABOUT ══════════════════ -->
