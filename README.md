@@ -21,71 +21,104 @@ My work links building information, physical assets, people, and autonomous syst
 
 <br clear="right"/>
 
-<!-- ══════════════════ RESEARCH QUESTIONS ══════════════════ -->
+<!-- ══════════════════ SOFTWARE ══════════════════ -->
 
-## 🎯 Research Questions
+## 💻 Software & Coding Works
 
-The questions that drive my work, from the data inside a model to the robots moving through a building:
+<h3>🔄 BIM, IFC &amp; XR Interoperability</h3>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🔗 Information that travels</h4>
-      How can building information move between authoring tools, databases, real-time engines, AI and robots <b>without losing its meaning</b>?
+    <td width="33%" valign="top">
+      🔁 <a href="https://github.com/isaddiq/ReUniXchange"><b>ReUniXchange</b></a><br/>
+      <sub>Revit add-in, published on the Autodesk App Store, that exports geometry and semantic BIM metadata to Unity for XR, with a Unity package for two-way exchange.</sub><br/>
+      <code>C#</code> <code>Revit API</code> <code>Unity</code><br/>
+      <sub>🛒 <a href="https://apps.autodesk.com/RVT/en/Detail/Index?id=6622158299438821562&amp;appLang=en&amp;os=Win64">App Store</a> · 🌐 <a href="https://isaddiq.github.io/ReUniXchange/">Project page</a> · 🧩 <a href="https://github.com/isaddiq/ReUniXchange_01">Plugin source</a></sub>
     </td>
-    <td width="50%" valign="top">
-      <h4>🌐 Twins that remember</h4>
-      How should a digital twin record not only what a building is, but <b>where its evidence came from, how reliable it is</b>, and which decisions it informed?
+    <td width="33%" valign="top">
+      🥽 <a href="https://github.com/isaddiq/BIMUniXchange"><b>BIMUniXchange</b></a><br/>
+      <sub>End-to-end AEC-to-XR pipeline that brings Revit and ArchiCAD models, together with their metadata, into Unity for immersive construction visualisation.</sub><br/>
+      <code>Unity</code> <code>C#</code> <code>Python</code><br/>
+      <sub>🌐 <a href="https://isaddiq.github.io/BIMUniXchange/">Project page</a></sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🥽 Information in place</h4>
-      How can the right building information appear <b>in front of the right person, on site</b>, for planning, inspection and asset management?
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 AI you can trust</h4>
-      How can language models answer questions about a building and review designs <b>grounded in the model</b>, rather than guessing?
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🦾 Buildings robots can read</h4>
-      What does a robot need from building information to <b>navigate, inspect and work autonomously</b> during construction and operation?
-    </td>
-    <td width="50%" valign="top">
-      <h4>👷 Sharing the building</h4>
-      How can people and robots share <b>corridors, lifts and workflows</b> in the same building without slowing each other down?
+    <td width="33%" valign="top">
+      🧊 <a href="https://github.com/isaddiq/ifcusd"><b>IfcUSD</b></a><br/>
+      <sub>Python package that converts IFC models to OpenUSD while preserving IFC identity, hierarchy, materials, properties and relationships.</sub><br/>
+      <code>Python</code> <code>IfcOpenShell</code> <code>OpenUSD</code>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>📡 Evidence from reality</h4>
-      How can images, point clouds and sensor data become <b>inspection evidence tied to the right building element</b>?
+    <td width="33%" valign="top">
+      🏛️ <a href="https://github.com/isaddiq/ArchiUniXchange"><b>ArchiUniXchange</b></a><br/>
+      <sub>Python tools that assign unique IDs in ArchiCAD, extract every element's metadata to CSV and bind it to FBX objects in Unity.</sub><br/>
+      <code>Python</code> <code>ArchiCAD API</code> <code>Unity</code>
     </td>
-    <td width="50%" valign="top">
-      <h4>🏢 Designing for robots</h4>
-      How should buildings be designed today so that <b>people and robots can coexist in them</b> for decades to come?
+    <td width="33%" valign="top">
+      🎮 <a href="https://github.com/isaddiq/Ifc2Unity"><b>Ifc2Unity</b></a><br/>
+      <sub>Unity Editor tool that converts IFC files into Unity scenes via IfcOpenShell, keeping geometry, materials, properties and the spatial hierarchy.</sub><br/>
+      <code>C#</code> <code>Python</code> <code>IfcOpenShell</code>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏭 Built in the factory</h4>
-      How can digital methods make modules <b>easier to plan, produce, inspect and track</b> across their whole lifecycle?
-    </td>
-    <td width="50%" valign="top">
-      <h4>🕓 Rehearsing construction</h4>
-      How can simulation <b>test sequences and operational scenarios</b> before they happen on site?
+    <td width="33%" valign="top">
+      🌐 <a href="https://github.com/isaddiq/IFC_Web_Viewer"><b>IFC Web Viewer</b></a><br/>
+      <sub>Browser-only IFC viewer with no server and no upload: section boxes, measurements, issue pins and a full property inspector.</sub><br/>
+      <code>JavaScript</code> <code>IFC</code><br/>
+      <sub>▶️ <a href="https://isaddiq.github.io/IFC_Web_Viewer/">Live demo</a></sub>
     </td>
   </tr>
 </table>
 
-<!-- ══════════════════ RESEARCH FLOW ══════════════════ -->
+<h3>🤖 Robotics &amp; Simulation</h3>
 
-## 🧭 Research Direction
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      🤖 <a href="https://github.com/isaddiq/IFC2BOT"><b>IFC2BOT</b></a><br/>
+      <sub>IFC models → traceable Unity scenes → autonomous robot simulation, with sensors, mapping, localisation, planning and fleet coordination grounded in building semantics.</sub><br/>
+      <code>Unity</code> <code>C#</code> <code>Python</code>
+    </td>
+    <td width="33%" valign="top">
+      🚜 <a href="https://github.com/isaddiq/ForkliftSimulator"><b>Forklift Simulator</b></a><br/>
+      <sub>Forklift simulation built in Unity, with a demo video in the repository.</sub><br/>
+      <code>Unity</code> <code>C#</code>
+    </td>
+    <td width="33%" valign="top">
+      🏗️ <a href="https://github.com/isaddiq/CraneManipulator"><b>Crane Manipulator</b></a><br/>
+      <sub>Crane manipulation project built in Unity.</sub><br/>
+      <code>Unity</code> <code>C#</code>
+    </td>
+  </tr>
+</table>
+
+<h3>🧠 AI &amp; Developer Tools</h3>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      🧩 <a href="https://github.com/isaddiq/Claude-BIM-development-skill"><b>Claude BIM Dev Skill</b></a><br/>
+      <sub>Claude Code plugin adding a BIM software-development skill: Revit API, Unity BIM tools, IFC/openBIM workflows, model validation, digital twins and robotics.</sub><br/>
+      <code>Claude Code</code> <code>Agent Skills</code>
+    </td>
+    <td width="33%" valign="top">
+      📐 <a href="https://github.com/isaddiq/Software-Architecture-Vibe-Coding"><b>Architecture Vibe Coding</b></a><br/>
+      <sub>Claude Code plugin that keeps AI-assisted coding fast while enforcing practical architecture boundaries, tests and verification.</sub><br/>
+      <code>Claude Code</code> <code>Agent Skills</code>
+    </td>
+    <td width="33%" valign="top">
+      💬 <a href="https://github.com/isaddiq/UnityEngine_SadTalkerAIBot"><b>SadTalker AI Bot</b></a><br/>
+      <sub>Conversational medical chatbot that answers patients' questions with ChatGPT and delivers the replies as realistic talking-head video in Unity.</sub><br/>
+      <code>Unity</code> <code>ChatGPT</code> <code>SadTalker</code>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>🎓 Unity learning projects</b></summary>
+  <br/>
+  <a href="https://github.com/isaddiq/Jr-Programming-Project_github">Junior Programming Project</a> · <a href="https://github.com/isaddiq/Programming-Theory-Repo">Programming Theory</a> · <a href="https://github.com/isaddiq/Data-Persistence-Project">Data Persistence Project</a>
+</details>
 
 <p align="center">
-  <img src="assets/research_flow.svg" width="100%" alt="Animated research direction diagram" />
+  <sub>🌐 More software, publications and datasets on my <a href="https://isaddiq.github.io/"><b>portfolio website</b></a></sub>
 </p>
 
 <!-- ══════════════════ GITHUB ANALYTICS ══════════════════ -->
@@ -111,7 +144,7 @@ The questions that drive my work, from the data inside a model to the robots mov
 
 ## 🤝 Let's Collaborate
 
-If any of the questions above overlap with your work, in academia or industry, I'd be glad to hear from you: joint research, pilot projects, or simply an exchange of ideas.
+If my research overlaps with your work, in academia or industry, I'd be glad to hear from you: joint research, pilot projects, or simply an exchange of ideas.
 
 <p align="center">
   <a href="mailto:saddiq.r.97@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch by email" /></a>
