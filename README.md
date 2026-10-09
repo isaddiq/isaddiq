@@ -9,77 +9,79 @@
   <img src="https://img.shields.io/github/followers/isaddiq?style=for-the-badge&color=6d28d9&labelColor=0f172a&label=FOLLOWERS&logo=github&logoColor=white" alt="GitHub followers" />
 </p>
 
+<!-- ══════════════════ PROFILE_1 (ASCII PORTRAIT + ABOUT) ══════════════════ -->
+
+<p align="center">
+  <img src="assets/profile_1.svg" width="100%" alt="ASCII-art portrait of Saddiq Ur Rehman beside a terminal-style profile: role, research focus, tech stack and contact" />
+</p>
+
 <!-- ══════════════════ ABOUT ══════════════════ -->
 
 ## 🧑‍🔬 About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="coding" />
 
-I am a **Researcher** in the **buildingSMART Korea**, working in the field of **Construction Informatics** at the intersection of **Building Information Modeling (BIM), Digital Twins, Extended Reality (XR), Artificial Intelligence, and Robotics**.
+Buildings carry an enormous amount of information, yet most of it stays locked inside the software that created it. I want that information to **keep its meaning wherever it goes**: into a headset on site, a conversation with an AI assistant, an inspection report, or the navigation map of a robot.
 
-My research focuses on developing **semantically connected and intelligent digital environments** that bridge building information, physical assets, humans, and autonomous systems throughout the building lifecycle.
-
-A central theme of my work is improving interoperability between BIM, real-time environments, AI systems, and robotic platforms. This includes semantic BIM-to-XR workflows, trustworthy AI-assisted inspection, LLM-grounded BIM interaction, robot-ready building information, human-robot collaboration, and digital twin systems for construction and built-asset monitoring.
+My work links building information, physical assets, people, and autonomous systems into **digital environments that stay useful across a building's whole life**, from design and construction through inspection and day-to-day operation.
 
 <br clear="right"/>
 
-<!-- ══════════════════ RESEARCH OVERVIEW ══════════════════ -->
+<!-- ══════════════════ RESEARCH QUESTIONS ══════════════════ -->
 
-## 🎯 Research Focus
+## 🎯 Research Questions
 
-<p align="center">
-  <img src="assets/research_orbit.svg" width="100%" alt="Animated research focus orbit" />
-</p>
+The questions that drive my work, from the data inside a model to the robots moving through a building:
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🔗 Semantic BIM & Interoperability</h4>
-      Semantic information exchange across BIM authoring tools, openBIM / IFC, databases, digital twins, real-time engines, AI systems, and robotic platforms.
+      <h4>🔗 Information that travels</h4>
+      How can building information move between authoring tools, databases, real-time engines, AI and robots <b>without losing its meaning</b>?
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Semantic Digital Twins</h4>
-      Digital twin architectures that connect physical assets, BIM elements, inspection evidence, sensor information, provenance, reliability, and decision histories.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🥽 BIM–XR & Immersive Environments</h4>
-      BIM-to-XR pipelines for virtual and mixed reality applications supporting construction planning, inspection, information access, collaboration, and asset management.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 AI & LLMs for the Built Environment</h4>
-      Grounded large language models, conversational BIM interfaces, agentic AI, automated design review, requirements interpretation, and AI-assisted decision support.
+      <h4>🌐 Twins that remember</h4>
+      How should a digital twin record not only what a building is, but <b>where its evidence came from, how reliable it is</b>, and which decisions it informed?
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🦾 Construction Robotics</h4>
-      Integration of BIM, digital twins, autonomous robots, sensing systems, and simulation environments for construction, inspection, and built-asset operations.
+      <h4>🥽 Information in place</h4>
+      How can the right building information appear <b>in front of the right person, on site</b>, for planning, inspection and asset management?
     </td>
     <td width="50%" valign="top">
-      <h4>👷 Human–Robot Collaboration</h4>
-      Human and robot coordination in shared built environments, including workflow planning, shared infrastructure, robot navigation, vertical transportation, and operational efficiency.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📡 Reality Capture & Intelligent Inspection</h4>
-      Integration of RGB imagery, point clouds, computer vision, multimodal sensing, BIM, and AI for automated inspection, progress monitoring, defect assessment, and evidence-based decision making.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏢 Robot-Friendly Building Design</h4>
-      Building information and design strategies that improve robot accessibility, navigation, task execution, information exchange, and long-term human-robot coexistence.
+      <h4>🧠 AI you can trust</h4>
+      How can language models answer questions about a building and review designs <b>grounded in the model</b>, rather than guessing?
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏭 DfMA & Modular Construction</h4>
-      Digital methods for Design for Manufacture and Assembly, modular construction planning, prefabrication, production simulation, inspection, and lifecycle information integration.
+      <h4>🦾 Buildings robots can read</h4>
+      What does a robot need from building information to <b>navigate, inspect and work autonomously</b> during construction and operation?
     </td>
     <td width="50%" valign="top">
-      <h4>🕓 4D BIM & Construction Simulation</h4>
-      BIM-based construction sequencing, workflow simulation, virtual environments, productivity analysis, and operational scenario evaluation.
+      <h4>👷 Sharing the building</h4>
+      How can people and robots share <b>corridors, lifts and workflows</b> in the same building without slowing each other down?
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📡 Evidence from reality</h4>
+      How can images, point clouds and sensor data become <b>inspection evidence tied to the right building element</b>?
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 Designing for robots</h4>
+      How should buildings be designed today so that <b>people and robots can coexist in them</b> for decades to come?
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏭 Built in the factory</h4>
+      How can digital methods make modules <b>easier to plan, produce, inspect and track</b> across their whole lifecycle?
+    </td>
+    <td width="50%" valign="top">
+      <h4>🕓 Rehearsing construction</h4>
+      How can simulation <b>test sequences and operational scenarios</b> before they happen on site?
     </td>
   </tr>
 </table>
@@ -90,39 +92,6 @@ A central theme of my work is improving interoperability between BIM, real-time 
 
 <p align="center">
   <img src="assets/research_flow.svg" width="100%" alt="Animated research direction diagram" />
-</p>
-
-<!-- ══════════════════ TECHNOLOGY STACK ══════════════════ -->
-
-## 🛠️ Technology Stack
-
-<p align="center"><b>Programming & Development</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,py,js,ts,unity,unreal,blender,azure,git,github,vscode,figma&theme=dark" alt="Core technology stack" />
-</p>
-
-<br/>
-
-<p align="center"><b>AEC, XR & AI Platforms</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Autodesk%20Revit-A0181A?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk Revit" />
-  <img src="https://img.shields.io/badge/Graphisoft%20ArchiCAD-1B75BB?style=for-the-badge" alt="Graphisoft ArchiCAD" />
-  <img src="https://img.shields.io/badge/openBIM%20%7C%20IFC-F9A03F?style=for-the-badge" alt="openBIM / IFC" />
-  <img src="https://img.shields.io/badge/HoloLens%202-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="HoloLens 2" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-</p>
-
-<br/>
-
-<p align="center"><b>Primary Research Domains</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Semantic%20Digital%20Twins-1a1b27?style=for-the-badge" alt="Semantic Digital Twins" />
-  <img src="https://img.shields.io/badge/Construction%20Robotics-1a1b27?style=for-the-badge" alt="Construction Robotics" />
-  <img src="https://img.shields.io/badge/Reality%20Capture-1a1b27?style=for-the-badge" alt="Reality Capture" />
-  <img src="https://img.shields.io/badge/Human--Robot%20Collaboration-1a1b27?style=for-the-badge" alt="Human-Robot Collaboration" />
 </p>
 
 <!-- ══════════════════ GITHUB ANALYTICS ══════════════════ -->
@@ -146,25 +115,12 @@ A central theme of my work is improving interoperability between BIM, real-time 
 
 <!-- ══════════════════ COLLABORATION ══════════════════ -->
 
-## 🌟 Research & Collaboration
+## 🤝 Let's Collaborate
 
-I am interested in research collaborations across academia and industry in areas including:
-
-- 🏗️ **Construction Informatics**: BIM, openBIM, semantic interoperability, and lifecycle information management
-- 🌐 **Digital Twins**: semantic digital twins, built-asset monitoring, inspection evidence, and decision support
-- 🥽 **BIM–XR Integration**: immersive construction environments, mixed reality inspection, and BIM-to-XR workflows
-- 🤖 **AI for AEC**: LLM-grounded BIM systems, agentic AI, automated design review, and intelligent decision support
-- 🦾 **Construction Robotics**: BIM-robot integration, robotic inspection, navigation, and robot-ready information
-- 👷 **Human–Robot Collaboration**: shared infrastructure, operational simulation, vertical transport, and collaborative workflows
-- 📡 **Reality Capture**: point clouds, computer vision, multimodal sensing, and BIM-linked inspection
-- 📦 **Modular Construction & DfMA**: prefabrication, production simulation, digital inspection, and information integration
-
-<br/>
+If any of the questions above overlap with your work, in academia or industry, I'd be glad to hear from you: joint research, pilot projects, or simply an exchange of ideas.
 
 <p align="center">
-  <a href="https://github.com/isaddiq"><img src="https://img.shields.io/badge/GitHub-isaddiq-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:saddiq.r.97@gmail.com"><img src="https://img.shields.io/badge/Email-saddiq.r.97%40gmail.com-1a1b27?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.khu.ac.kr/"><img src="https://img.shields.io/badge/Kyung%20Hee%20University-Department%20of%20Architecture-1a1b27?style=for-the-badge" alt="Kyung Hee University" /></a>
+  <a href="mailto:saddiq.r.97@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch by email" /></a>
 </p>
 
 <!-- ══════════════════ FOOTER ══════════════════ -->
