@@ -24,20 +24,20 @@
    :8B88B88888B88888B88B8B8BB88888BBBBB8:
    JB88BB8888G66f(?!!!?f*\JRY968BW88BBBBL
    )BBBBF?Y*!!::.:....    .*YYR8BB888BBB:
-   &gt;BBBF:....                .::?7988BBBL
-   &gt;BBB&lt;::...   . .      .    .....?8BBBL
+   >BBBF:....                .::?7988BBBL
+   >BBB<::...   . .      .    .....?8BBBL
    .8BBL.:..               ......:..?8BB:
-    8BK..:vcnYh4ec::.. ::&gt;nfT**r?c:..3BR
-    3BL :::srYG6!&lt;&gt;::  ::&gt;r!4AF?r:::.:8k:
+    8BK..:vcnYh4ec::.. ::>nfT**r?c:..3BR
+    3BL :::srYG6!<>::  ::>r!4AF?r:::.:8k:
    !:X:::. .:::. .::: .::: .    ...:.:E.:.
    ::3:::..     ..::: .:.::.. . ....::?.:
    :::::::..  .  .::   .:::  . ..:::::::.
-    :::::::... ..:&gt;x:::&gt;+::.....::::::::
+    :::::::... ..:>x:::>+::.....::::::::
      :!:::::...................:.:::::
-       !&lt;::::::;c;;&lt;&lt;&lt;&gt;&lt;&lt;c;cc::::::&gt;!
-        :&lt;&lt;::::.:!c;::::;cr:::::::&gt;:
-         :!&gt;&lt;:::  .:!**!::..:::&gt;&gt;!!
-       .z.::!!&gt;c&lt;::..:..:::&gt;cr!:::::,
+       !<::::::;c;;<<<><<c;cc::::::>!
+        :<<::::.:!c;::::;cr:::::::>:
+         :!><:::  .:!**!::..:::>>!!
+       .z.::!!>c<::..:..:::>cr!:::::,
      ,a8F  ::::::?Yneeeenr!:::::::  4mL.
 ,;aA88BB:    :::::::::::::::::::    3BBB8mu;
 B88888BB.      ::::::::..:.:        3BB88BBB
@@ -47,8 +47,8 @@ B88888BB.      ::::::::..:.:        3BB88BBB
     </td>
     <td width="53%" valign="top">
 <h2>👋 Hi, I'm Saddiq</h2>
-<b>Researcher</b> at <b>buildingSMART Korea</b><br/>
-Kyung Hee University · Department of Architecture<br/><br/>
+<b>Researcher · Construction Informatics</b><br/>
+Department of Architecture · Kyung Hee University<br/><br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=6366F1&vCenter=true&width=420&height=32&lines=Semantic+BIM+%C2%B7+openBIM+%2F+IFC;Semantic+Digital+Twins;BIM-to-XR+%C2%B7+Mixed+Reality;LLM-grounded+BIM+%C2%B7+Agentic+AI;Construction+Robotics" alt="Research areas: Semantic BIM, openBIM/IFC, Digital Twins, BIM-to-XR, LLM-grounded BIM, Agentic AI, Construction Robotics" />
 <h4>🔬 Research focus</h4>
 🔗 <b>Interop</b> · Semantic BIM · openBIM / IFC<br/>
@@ -81,7 +81,7 @@ My work links building information, physical assets, people, and autonomous syst
 
 ## 💻 Software & Coding Works
 
-<h3>🔄 BIM, IFC &amp; XR Interoperability</h3>
+<h3>🔄 BIM, IFC & XR Interoperability</h3>
 
 <table width="100%">
   <tr>
@@ -89,7 +89,7 @@ My work links building information, physical assets, people, and autonomous syst
       🔁 <a href="https://github.com/isaddiq/ReUniXchange"><b>ReUniXchange</b></a><br/>
       <sub>Revit add-in, published on the Autodesk App Store, that exports geometry and semantic BIM metadata to Unity for XR, with a Unity package for two-way exchange.</sub><br/>
       <code>C#</code> <code>Revit API</code> <code>Unity</code><br/>
-      <sub>🛒 <a href="https://apps.autodesk.com/RVT/en/Detail/Index?id=6622158299438821562&amp;appLang=en&amp;os=Win64">App Store</a> · 🌐 <a href="https://isaddiq.github.io/ReUniXchange/">Project page</a> · 🧩 <a href="https://github.com/isaddiq/ReUniXchange_01">Plugin source</a></sub>
+      <sub>🛒 <a href="https://apps.autodesk.com/RVT/en/Detail/Index?id=6622158299438821562&appLang=en&os=Win64">App Store</a> · 🌐 <a href="https://isaddiq.github.io/ReUniXchange/">Project page</a> · 🧩 <a href="https://github.com/isaddiq/ReUniXchange_01">Plugin source</a></sub>
     </td>
     <td width="33%" valign="top">
       🥽 <a href="https://github.com/isaddiq/BIMUniXchange"><b>BIMUniXchange</b></a><br/>
@@ -123,7 +123,7 @@ My work links building information, physical assets, people, and autonomous syst
   </tr>
 </table>
 
-<h3>🤖 Robotics &amp; Simulation</h3>
+<h3>🤖 Robotics & Simulation</h3>
 
 <table width="100%">
   <tr>
@@ -145,7 +145,7 @@ My work links building information, physical assets, people, and autonomous syst
   </tr>
 </table>
 
-<h3>🧠 AI &amp; Developer Tools</h3>
+<h3>🧠 AI & Developer Tools</h3>
 
 <table width="100%">
   <tr>
