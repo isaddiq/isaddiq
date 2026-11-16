@@ -4,38 +4,38 @@
   <tr>
     <td valign="top">
 <pre>
-                    ::::
-             :&lt;::::!!:::::&gt;&gt;!??Yntc:
-         :;!::::::::::::::::::::::!:::?c:
-       :!::::::::::::::::::::::::::::::::&gt;::
-     :/::::::::::::::::::::::::::::::::::::!Y:
-    :!::::::::::::::::::::::::::::::::::::::::&gt;:
-    !:::::::::::::::::::::::::::::::::::::::::::
-    ::::::::::::::::::;cc;;::;&lt;:::::::::::::::::
-    ::::::::::::;czSoS6666G88Gkc;:::::::::::::::
-    :::::&gt;6SVA8G888888888888888B88ksc;::::::::::
-    :::::S6GG88888888888888888888886GXSzs::::::&gt;:
-    :::::S66GG88888888888888888888888GGGG6&lt;:::::
-    :::::666GA8888888888888888888RRR666GGG6&lt;:::&gt;
-    ::::3G6VT&gt;!!!::!?Y568888EY?!:;c;/&lt;/?96G6::::
-    :::&gt;86Cczr??T?!)&lt;)vS88886tc&lt;(&gt;&gt;!i!?nc36AL:::
-    ?&lt;:3G66Szsc5scsG6ot)6886SSe66oSSa666666Gk:ot&lt;
-   :cA&lt;366G88888888886S6G88666G888888888GGG6E:X6c
-    36\3666G88888888R6668886666G8888888GG666SsAE:
-    !izSSSS6GG888888RS6G888866S9888888G6666S6S6!
-     3SttS666G888888EY!?555t?7568888GG66666StSt
-     :!!)tS666G88888GA66666G6GGA8GGAA666SSSc!
-        &gt;\itSS6G666S666XAAAX966655S666SSStc!
-         :!c?tS6Stsc:+cc;;;;c;&gt;:&gt;czSSttitr:
-           &lt;&gt;cztS6G6z&lt;:!?T??!:&gt;sS6SStivc!:
-           )c&lt;!?Y59A888A6666A88G66t(?!&gt;ss:
-         :)8ttcc&lt;&gt;!!?599669695tt?!!&gt;vzSSSA:
-       :::dB8zitizsc&lt;::::::::::&gt;cszSS6SSdBk::
-    :::::&gt;8BBBbztttSSzzssccszoSSS666SSWBBBR::::::
-:::::::::)BBBBBBWUtzSSSSSSS66SS6666G8BBBBB8:::::::::
-:::::::::?BBBBBBBB86S66GG8GAG8GG88BBBBBBBBK:::::::::
-::::::::::8BBBBBBBBBB8GGG88GG88BBBBBBBBBBBE:::::::::
-::::::::::3BBBBBBBBBBB8PT*!?98BBBBBBBBBBBBk:::::::::
+                     ...
+             .;uxwmm6688886Saeuc\&gt;vc.
+          .a88G8B888888B888BB8BB8mm88bu&lt;
+       .z8BB88888888B88BBBBBB88BB88888BBWc:
+     .;8BB8888888888BBBBBB88B88B8BB8888BBB8e,
+     dBB88888888888888BBB8BBR8BG88BBBBB888BBB8c
+    3B8888B88888BB88B88BB88B8BBBBB888888BBBBBBBL
+    4B88BB88888G9G6XFtYT*T5RPF?389R8G8BG88BBBBBK
+    4BBBBB6SSA6Ytr::::.:::   .:!5SoA88BBBG88BBBF
+    4BBBBr.::. :     ..           ::?988G888BBBk
+    3&amp;BBE:..... .  .  .           .:..::!98BBBBk
+    3BBBt:::...     .         .     ......3BBBBE
+    &gt;BBBK:.:..                  .......:...3BBBr
+    &gt;BBB:..:;csomm6ec:::....::&gt;x4fYYr?nc:...4BB:
+     8BF .&gt;!:;&gt;cvxxc&gt;&lt;::   .::&gt;zrG6Xrc&lt;:!:: JBK.
+    c38L ::::!!:!T!::!:&lt;: .::::::::::::::::.:8::!
+    &gt;.4&lt;.:..        ..::. .:::.        .....:X.::
+    ::Y::::.. .  . ..:::.  :.:::... ....:.:::!.:
+    :::::::::.. .   .::.   .::::  .. ..:::::::::
+     ::::::::..  . .::uc::::vc::.. ..::::::::::
+     :&gt;&lt;::::::..........::.............::::&gt;:
+        \&lt;:::::.::.::.........::::::::::::&gt;!
+         !&lt;&gt;&lt;:::::!Tt???rYYYr?TJt!:::::::&gt;!
+           &gt;&lt;&lt;::::.::?scc;;;vzr::::::::&gt;&gt;:
+           &gt;!&gt;&lt;&lt;:::.    .::.   ..:::&gt;&gt;&lt;!::
+         )F :::&lt;!cc&lt;&lt;:::.:::::::&gt;cc!::::: s
+       ;88:  ::::::!?Ynooooooxnr!:::::::  &gt;8e,
+  .;a#BBBE     &lt;:::::::!:!!!::::::::::    .8BBBWu,.
+8BBB888BBF       ::::::::::::::::.:       .8BB88BBBB
+8888888BBC         ::::........:          .8BBB88BBB
+88888888BK            ::....:             :8BB888888
+88888888B$:            ,uwwe;             &gt;BBB888888
 </pre>
     </td>
     <td valign="top">
