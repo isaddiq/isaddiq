@@ -12,70 +12,63 @@
 
 <!-- ══════════════════ PORTRAIT + DETAILS ══════════════════ -->
 
-<table width="100%">
-  <tr>
-    <td width="47%" valign="top">
 <pre>
                  ....  .
           ,uaA888W8BB8GW8mpc)zs..
-       ,u8B888888888B88BB8B888888u,
-     .a8B8888888888BBB888WBB88888BB8c:
-    s8B88888888888BBBBBB88888BB8B88BB8b,
-   :8B88B88888B88888B88B8B8BB88888BBBBB8:
-   JB88BB8888G66f(?!!!?f*\JRY968BW88BBBBL
-   )BBBBF?Y*!!::.:....    .*YYR8BB888BBB:
-   >BBBF:....                .::?7988BBBL
-   >BBB<::...   . .      .    .....?8BBBL
-   .8BBL.:..               ......:..?8BB:
-    8BK..:vcnYh4ec::.. ::>nfT**r?c:..3BR
-    3BL :::srYG6!<>::  ::>r!4AF?r:::.:8k:
-   !:X:::. .:::. .::: .::: .    ...:.:E.:.
-   ::3:::..     ..::: .:.::.. . ....::?.:
+       ,u8B888888888B88BB8B888888u,             <b>saddiq</b>@<b>github</b>
+     .a8B8888888888BBB888WBB88888BB8c:          --------------------------------------------
+    s8B88888888888BBBBBB88888BB8B88BB8b,        <b>Name</b> ...................... Saddiq Ur Rehman
+   :8B88B88888B88888B88B8B8BB88888BBBBB8:       <b>Role</b> ............................ Researcher
+   JB88BB8888G66f(?!!!?f*\JRY968BW88BBBBL       <b>Field</b> ............. Construction Informatics
+   )BBBBF?Y*!!::.:....    .*YYR8BB888BBB:       <b>Dept</b> ......... Architecture, Kyung Hee Univ.
+   &gt;BBBF:....                .::?7988BBBL
+   &gt;BBB&lt;::...   . .      .    .....?8BBBL       <b>Research</b> -----------------------------------
+   .8BBL.:..               ......:..?8BB:       <b>Interop</b> ........ Semantic BIM, openBIM / IFC
+    8BK..:vcnYh4ec::.. ::&gt;nfT**r?c:..3BR        <b>Twins</b> ............... Semantic Digital Twins
+    3BL :::srYG6!&lt;&gt;::  ::&gt;r!4AF?r:::.:8k:       <b>XR</b> ................... BIM-to-XR, HoloLens 2
+   !:X:::. .:::. .::: .::: .    ...:.:E.:.      <b>AI</b> ............ LLM-grounded BIM, Agentic AI
+   ::3:::..     ..::: .:.::.. . ....::?.:       <b>Robotics</b> ......... Human-Robot Collaboration
    :::::::..  .  .::   .:::  . ..:::::::.
-    :::::::... ..:>x:::>+::.....::::::::
-     :!:::::...................:.:::::
-       !<::::::;c;;<<<><<c;cc::::::>!
-        :<<::::.:!c;::::;cr:::::::>:
-         :!><:::  .:!**!::..:::>>!!
-       .z.::!!>c<::..:..:::>cr!:::::,
-     ,a8F  ::::::?Yneeeenr!:::::::  4mL.
-,;aA88BB:    :::::::::::::::::::    3BBB8mu;
-B88888BB.      ::::::::..:.:        3BB88BBB
+    :::::::... ..:&gt;x:::&gt;+::.....::::::::        <b>Stack</b> --------------------------------------
+     :!:::::...................:.:::::          <b>Code</b> ............ C#, Python, JS, TypeScript
+       !&lt;::::::;c;;&lt;&lt;&lt;&gt;&lt;&lt;c;cc::::::&gt;!           <b>Engines</b> ............. Unity, Unreal, Blender
+        :&lt;&lt;::::.:!c;::::;cr:::::::&gt;:            <b>AEC</b> ................... Revit, ArchiCAD, IFC
+         :!&gt;&lt;:::  .:!**!::..:::&gt;&gt;!!
+       .z.::!!&gt;c&lt;::..:..:::&gt;cr!:::::,           <b>Contact</b> ------------------------------------
+     ,a8F  ::::::?Yneeeenr!:::::::  4mL.        <b>Web</b> ...................... <a href="https://isaddiq.github.io/">isaddiq.github.io</a>
+,;aA88BB:    :::::::::::::::::::    3BBB8mu;    <b>Mail</b> ................. <a href="mailto:saddiq.r.97@gmail.com">saddiq.r.97@gmail.com</a>
+B88888BB.      ::::::::..:.:        3BB88BBB    <b>Status</b> ............... Open to collaboration
 888888BB:         ::....:           4BB888B8
 8888888BC          .;uuc.           4BB88888
 </pre>
-    </td>
-    <td width="53%" valign="top">
-<h2>👋 Hi, I'm Saddiq</h2>
-<b>Researcher · Construction Informatics</b><br/>
-Department of Architecture · Kyung Hee University<br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=6366F1&vCenter=true&width=420&height=32&lines=Semantic+BIM+%C2%B7+openBIM+%2F+IFC;Semantic+Digital+Twins;BIM-to-XR+%C2%B7+Mixed+Reality;LLM-grounded+BIM+%C2%B7+Agentic+AI;Construction+Robotics" alt="Research areas: Semantic BIM, openBIM/IFC, Digital Twins, BIM-to-XR, LLM-grounded BIM, Agentic AI, Construction Robotics" />
-<h4>🔬 Research focus</h4>
-🔗 <b>Interop</b> · Semantic BIM · openBIM / IFC<br/>
-🛰️ <b>Twins</b> · Semantic Digital Twins · Reality Capture<br/>
-🥽 <b>XR</b> · BIM-to-XR · Mixed Reality · HoloLens 2<br/>
-🧠 <b>AI</b> · LLM-grounded BIM · Agentic AI<br/>
-🤖 <b>Robotics</b> · Human–Robot Collaboration
-<h4>🧰 Tech stack</h4>
-<img src="https://skillicons.dev/icons?i=cs,py,js,ts,unity,unreal,blender,azure,figma,git,vscode,github&perline=6" width="300" alt="C#, Python, JavaScript, TypeScript, Unity, Unreal Engine, Blender, Azure, Figma, Git, VS Code, GitHub" /><br/>
-<img src="https://img.shields.io/badge/Revit-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Revit" />
-<img src="https://img.shields.io/badge/ArchiCAD-1E8E3E?style=flat-square" alt="ArchiCAD" />
-<img src="https://img.shields.io/badge/IFC%20%2F%20openBIM-F59E0B?style=flat-square" alt="IFC / openBIM" />
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square" alt="OpenAI API" />
-<h4>📫 Connect</h4>
-<a href="https://isaddiq.github.io/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio website" /></a>
-<a href="mailto:saddiq.r.97@gmail.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=520&height=36&lines=Semantic+BIM+%C2%B7+openBIM+%2F+IFC;Semantic+Digital+Twins;BIM-to-XR+%C2%B7+Mixed+Reality;LLM-grounded+BIM+%C2%B7+Agentic+AI;Construction+Robotics" alt="Research areas: Semantic BIM, openBIM/IFC, Digital Twins, BIM-to-XR, LLM-grounded BIM, Agentic AI, Construction Robotics" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,py,js,ts,unity,unreal,blender,azure,figma,git,vscode,github&perline=12" width="560" alt="C#, Python, JavaScript, TypeScript, Unity, Unreal Engine, Blender, Azure, Figma, Git, VS Code, GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Revit-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Revit" />
+  <img src="https://img.shields.io/badge/ArchiCAD-1E8E3E?style=flat-square" alt="ArchiCAD" />
+  <img src="https://img.shields.io/badge/IFC%20%2F%20openBIM-F59E0B?style=flat-square" alt="IFC / openBIM" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square" alt="OpenAI API" />
+</p>
+
+<p align="center">
+  <a href="https://isaddiq.github.io/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio website" /></a>
+  <a href="mailto:saddiq.r.97@gmail.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 <!-- ══════════════════ ABOUT ══════════════════ -->
 
 ## 🧑‍🔬 About Me
 
-Buildings carry an enormous amount of information, yet most of it stays locked inside the software that created it. I want that information to **keep its meaning wherever it goes**: into a headset on site, a conversation with an AI assistant, an inspection report, or the navigation map of a robot.
+<p align="justify">Buildings carry an enormous amount of information, yet most of it stays locked inside the software that created it. I want that information to <b>keep its meaning wherever it goes</b>: into a headset on site, a conversation with an AI assistant, an inspection report, or the navigation map of a robot.</p>
 
-My work links building information, physical assets, people, and autonomous systems into **digital environments that stay useful across a building's whole life**, from design and construction through inspection and day-to-day operation.
+<p align="justify">My work links building information, physical assets, people, and autonomous systems into <b>digital environments that stay useful across a building's whole life</b>, from design and construction through inspection and day-to-day operation.</p>
 
 <!-- ══════════════════ SOFTWARE ══════════════════ -->
 
