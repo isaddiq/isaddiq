@@ -1,25 +1,70 @@
-<!-- ══════════════════ PROFILE_1 (ASCII PORTRAIT + ABOUT) ══════════════════ -->
+<!-- ══════════════════ PROFILE (ASCII PORTRAIT + DETAILS + ABOUT) ══════════════════ -->
 
-<p align="center">
-  <img src="assets/profile_1.svg" width="100%" alt="ASCII-art portrait of Saddiq Ur Rehman beside a terminal-style profile: role, research focus, tech stack and contact" />
-</p>
+<table>
+  <tr>
+    <td valign="top">
+<pre>
+             '``,,;,,:^^^;^'
+          ':;iII!!!l!&gt;li![lil^:
+        ,;,;iIilll!Ill::Illlil;;^
+       :;lliiill!;;,,IIil;Ill!;lI;;'
+      ,I!lliili!ll;:I;;l;!I;II!!;;;I'
+     ';l!Ili!ll!lll;lI;lIII!liIII;::`
+     ':!:Il&gt;ii&lt;~-}{|)}-}1&gt;-&gt;&lt;;!!;I;I;
+     ',;;!]-}(\uUXLCLOmOUj)?&gt;l:IilI;:
+     ^;;;/YUZOdbddqdbkhhhhpXu(~&lt;ll;::
+     ^,l~xYQZpdkkbbkaaaakkdwOCXz]I;;:'
+     ^:;&gt;uzLmdkahhhaaaaaaaakqQLUX&lt;lI"
+      ,I+UzCXCXXJZqdkkkZOcfjxnUJXnl;^
+      "IcYn\rjx/(|jUdd0r/)jufrjxXC-;'
+     ;[IOzux)u{+UvnnwqUuxJ\1XjuXcUt]c'
+     lO+OX0qm0mmmZXXwqJX0qpkkqmQLYuYU^
+     +O(CXQqkkkkdZLCpqLLCZqbbdwQCYzJc
+     'zuncUQmbbkbQzOkbOXXmddpm0UYzzL}
+      \zncXYOqddwXxxUUzuXOpqZQCUUcvJ
+      I?/ncYCmmmZOQQCLLC0Z00QCXzcxi
+        IfrxcCUXncXXJUXXcnrzccuun]
+         :tfrvcun(fuvrnf(|xxuxjr]
+          ;/trcYQYxt\\/tuzXvrjt/
+          nrt\\jXQqwZZwZ0Un\\tnx1
+        .,q)rrf/((/fftt/\(\jnccUM^.
+     .^;![%{]jxrxr\)11(/rnvYYUq&amp;%~&gt;;`'
+ '^,li~&lt;!r%&amp;(]OunuccccXzzJQJp&amp;WM8]i&lt;il;,`^
+i&gt;&lt;&lt;&lt;&lt;&lt;&lt;!n%&amp;dI1qOXLQQ0OZOX|X&amp;WWW8_!ii!!!i!
+!!&gt;&lt;&lt;&lt;&lt;&gt;i}B8(III/&amp;pQOZOz}w&amp;&amp;WWWM&amp;!!iiii!ll
+i&gt;i&lt;&lt;&lt;&lt;&gt;iiB8IIIIII~8Cx~IJ&amp;&amp;&amp;&amp;&amp;WMM!iiiiii!!
+</pre>
+    </td>
+    <td valign="top">
+<h2>👋 Hi, I'm Saddiq Ur Rehman</h2>
+<b>Researcher</b> at <b>buildingSMART Korea</b> · Kyung Hee University, Architecture<br/>
+<sub>Construction Informatics · BIM · Digital Twins · XR · AI · Robotics</sub>
+<h3>🧑‍🔬 About Me</h3>
+<p>Buildings carry an enormous amount of information, yet most of it stays locked inside the software that created it. I want that information to <b>keep its meaning wherever it goes</b>: into a headset on site, a conversation with an AI assistant, an inspection report, or the navigation map of a robot.</p>
+<p>My work links building information, physical assets, people, and autonomous systems into <b>digital environments that stay useful across a building's whole life</b>, from design and construction through inspection and day-to-day operation.</p>
+<h3>🔬 Research</h3>
+<b>Interop:</b> Semantic BIM · openBIM / IFC<br/>
+<b>Twins:</b> Semantic Digital Twins · Reality Capture<br/>
+<b>XR:</b> BIM-to-XR · Mixed Reality · HoloLens 2<br/>
+<b>AI:</b> LLM-grounded BIM · Agentic AI<br/>
+<b>Robotics:</b> Construction Robotics · Human–Robot Collaboration
+<h3>🧰 Stack</h3>
+<b>Languages:</b> C# · Python · JavaScript · TypeScript<br/>
+<b>Engines:</b> Unity · Unreal Engine · Blender<br/>
+<b>AEC:</b> Autodesk Revit · ArchiCAD · IFC<br/>
+<b>Tools:</b> VS Code · Git · Azure · Figma · OpenAI API
+<h3>📫 Contact</h3>
+<b>GitHub:</b> <a href="https://github.com/isaddiq">github.com/isaddiq</a><br/>
+<b>Email:</b> <a href="mailto:saddiq.r.97@gmail.com">saddiq.r.97@gmail.com</a><br/>
+<b>Status:</b> Open to research collaboration
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isaddiq&style=for-the-badge&color=1e3a8a&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/isaddiq?style=for-the-badge&color=6d28d9&labelColor=0f172a&label=FOLLOWERS&logo=github&logoColor=white" alt="GitHub followers" />
 </p>
-
-<!-- ══════════════════ ABOUT ══════════════════ -->
-
-## 🧑‍🔬 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="coding" />
-
-Buildings carry an enormous amount of information, yet most of it stays locked inside the software that created it. I want that information to **keep its meaning wherever it goes**: into a headset on site, a conversation with an AI assistant, an inspection report, or the navigation map of a robot.
-
-My work links building information, physical assets, people, and autonomous systems into **digital environments that stay useful across a building's whole life**, from design and construction through inspection and day-to-day operation.
-
-<br clear="right"/>
 
 <!-- ══════════════════ SOFTWARE ══════════════════ -->
 
